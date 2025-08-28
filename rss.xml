@@ -6,7 +6,6 @@
 	<language>en-us</language>
 	<atom:link   href="https://plus.darknetdiaries.com/content/eyJ0IjoicCIsImMiOiIxNTkxMiIsInUiOiIyMDI1MDk3IiwiZCI6IjE3MjcyMzM0MDAiLCJrIjo1OTR9fDE0Njc5MjlmZjcyOTg0ZTg4ZjYwNWY0YjcwNzliNWUzMGFlMTU1Y2U0ZmQ0OGJjZTljM2U2ZTZiYmQ2OTM5YjE.rss" rel="self" type="application/rss+xml" />
 	<copyright>Jack Rhysider</copyright>
-	<itunes:subtitle>True stories from the dark side of the Internet</itunes:subtitle>
 	<itunes:author>Jack Rhysider</itunes:author>
 	<itunes:summary>This is the ad free and bonus episode feed of Darknet Diaries. Explore the dark side of the Internet with host Jack Rhysider as he takes you on a journey through the chilling world of privacy hacks, data breaches, and cyber crime. The masterful criminal hackers who dwell on the dark side show us just how vulnerable we all are. </itunes:summary>
 	<itunes:keywords>infosec, security, hacking, privacy, Internet, hackers, breaches, threats, malware, trojan, virus, crypto</itunes:keywords>
@@ -276,7 +275,6 @@
 			<title>Ep 162: Hieu</title>
 			<itunes:title>Hieu</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>All Hieu Minh Ngo wanted was to make money online. But when he stumbled into the dark web, he found more than just opportunity, he found a global dark market. What started as a side hustle turned into an international crime spree.</itunes:subtitle>
 			<itunes:summary><![CDATA[All Hieu Minh Ngo wanted was to make money online. But when he stumbled into the dark web, he found more than just opportunity, he found a global dark market. What started as a side hustle turned into an international crime spree.]]></itunes:summary>
 			<description><![CDATA[All Hieu Minh Ngo wanted was to make money online. But when he stumbled into the dark web, he found more than just opportunity, he found a global dark market. What started as a side hustle turned into an international crime spree. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -295,7 +293,6 @@
 			<title>Ep 161: MG</title>
 			<itunes:title>MG</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In this episode we talk with MG, the brilliant (and notorious) hacker and hardware engineer behind the OMG Cable. A seemingly ordinary USB cable with extraordinary offensive capabilities.</itunes:subtitle>
 			<itunes:summary><![CDATA[In this episode we talk with MG, the brilliant (and notorious) hacker and hardware engineer behind the OMG Cable. A seemingly ordinary USB cable with extraordinary offensive capabilities.]]></itunes:summary>
 			<description><![CDATA[In this episode we talk with MG, the brilliant (and notorious) hacker and hardware engineer behind the OMG Cable. A seemingly ordinary USB cable with extraordinary offensive capabilities. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -314,7 +311,6 @@
 			<title>Ep 160: Greg</title>
 			<itunes:title>Greg</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Greg Linares (AKA Laughing Mantis) joins us to tell us about how he became the youngest hacker to be arrested in Arizona.</itunes:subtitle>
 			<itunes:summary><![CDATA[Greg Linares (AKA Laughing Mantis) joins us to tell us about how he became the youngest hacker to be arrested in Arizona.]]></itunes:summary>
 			<description><![CDATA[Greg Linares (AKA Laughing Mantis) joins us to tell us about how he became the youngest hacker to be arrested in Arizona. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -333,7 +329,6 @@
 			<title>Ep 159: Vastaamo</title>
 			<itunes:title>Vastaamo</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Joe Tidy investigates what may be the cruelest and most disturbing cyber attack in history. A breach so invasive it blurred the line between digital crime and psychological torture. This story might make your skin crawl.</itunes:subtitle>
 			<itunes:summary><![CDATA[Joe Tidy investigates what may be the cruelest and most disturbing cyber attack in history. A breach so invasive it blurred the line between digital crime and psychological torture. This story might make your skin crawl.]]></itunes:summary>
 			<description><![CDATA[Joe Tidy investigates what may be the cruelest and most disturbing cyber attack in history. A breach so invasive it blurred the line between digital crime and psychological torture. This story might make your skin crawl. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -352,7 +347,6 @@
 			<title>Ep 158: MalwareTech</title>
 			<itunes:title>MalwareTech</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>MalwareTech was an anonymous security researcher, until he accidentally stopped WannaCry, one of the largest ransomware attacks in history. That single act of heroism shattered his anonymity and pulled him into a world he never expected.</itunes:subtitle>
 			<itunes:summary><![CDATA[MalwareTech was an anonymous security researcher, until he accidentally stopped WannaCry, one of the largest ransomware attacks in history. That single act of heroism shattered his anonymity and pulled him into a world he never expected.]]></itunes:summary>
 			<description><![CDATA[MalwareTech was an anonymous security researcher, until he accidentally stopped WannaCry, one of the largest ransomware attacks in history. That single act of heroism shattered his anonymity and pulled him into a world he never expected. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -371,7 +365,6 @@
 			<title>Ep 157: Grifter</title>
 			<itunes:title>Grifter</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Grifter is a longtime hacker, DEF CON organizer, and respected voice in the infosec community. From his early days exploring networks to helping shape one of the largest hacker conferences in the world, Grifter has built a reputation for blending deep technical insight with a sharp sense of humor.</itunes:subtitle>
 			<itunes:summary><![CDATA[Grifter is a longtime hacker, DEF CON organizer, and respected voice in the infosec community. From his early days exploring networks to helping shape one of the largest hacker conferences in the world, Grifter has built a reputation for blending deep technical insight with a sharp sense of humor.]]></itunes:summary>
 			<description><![CDATA[Grifter is a longtime hacker, DEF CON organizer, and respected voice in the infosec community. From his early days exploring networks to helping shape one of the largest hacker conferences in the world, Grifter has built a reputation for blending deep technical insight with a sharp sense of humor. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -390,7 +383,6 @@
 			<title>Ep 156: Kill List</title>
 			<itunes:title>Kill List</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>The dark web is full of mystery. Some of it’s just made up though. Chris Monteiro wanted to see what was real and fake and discovered a hitman for hire site which took him on an unbelievable journey.</itunes:subtitle>
 			<itunes:summary><![CDATA[The dark web is full of mystery. Some of it’s just made up though. Chris Monteiro wanted to see what was real and fake and discovered a hitman for hire site which took him on an unbelievable journey.]]></itunes:summary>
 			<description><![CDATA[The dark web is full of mystery. Some of it’s just made up though. Chris Monteiro wanted to see what was real and fake and discovered a hitman for hire site which took him on an unbelievable journey. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -409,7 +401,6 @@
 			<title>Ep 155: Kingpin</title>
 			<itunes:title>Kingpin</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In this episode, we delve into the multifaceted career of Joe Grand, also known as Kingpin. A renowned hardware hacker and computer engineer.</itunes:subtitle>
 			<itunes:summary><![CDATA[In this episode, we delve into the multifaceted career of Joe Grand, also known as Kingpin. A renowned hardware hacker and computer engineer.]]></itunes:summary>
 			<description><![CDATA[In this episode, we delve into the multifaceted career of Joe Grand, also known as Kingpin. A renowned hardware hacker and computer engineer. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -428,7 +419,6 @@
 			<title>Ep 154: Hijacked Line</title>
 			<itunes:title>Hijacked Line</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Conor Freeman stole money online. Lot’s of it. In this episode we talk with him, and hear how he did it, why he did, and what he spent it on.</itunes:subtitle>
 			<itunes:summary><![CDATA[Conor Freeman stole money online. Lot’s of it. In this episode we talk with him, and hear how he did it, why he did, and what he spent it on.]]></itunes:summary>
 			<description><![CDATA[Conor Freeman stole money online. Lot’s of it. In this episode we talk with him, and hear how he did it, why he did, and what he spent it on. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -447,7 +437,6 @@
 			<title>Ep 153: Bike Index</title>
 			<itunes:title>Bike Index</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Have you ever got your bike stolen? In this episode we dive into the world of stolen bikes. Who does it and where do the bikes go? We talk with Bryan from Bike Index who investigates this.</itunes:subtitle>
 			<itunes:summary><![CDATA[Have you ever got your bike stolen? In this episode we dive into the world of stolen bikes. Who does it and where do the bikes go? We talk with Bryan from Bike Index who investigates this.]]></itunes:summary>
 			<description><![CDATA[Have you ever got your bike stolen? In this episode we dive into the world of stolen bikes. Who does it and where do the bikes go? We talk with Bryan from Bike Index who investigates this. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -466,7 +455,6 @@
 			<title>Ep 152: Stacc Attack</title>
 			<itunes:title>Stacc Attack</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Jarett Dunn, AKA StaccOverflow, stole millions of dollars from a website called Pump Fun, and he wanted to do it in the most dramatic and theatrical way he could.</itunes:subtitle>
 			<itunes:summary><![CDATA[Jarett Dunn, AKA StaccOverflow, stole millions of dollars from a website called Pump Fun, and he wanted to do it in the most dramatic and theatrical way he could.]]></itunes:summary>
 			<description><![CDATA[Jarett Dunn, AKA StaccOverflow, stole millions of dollars from a website called Pump Fun, and he wanted to do it in the most dramatic and theatrical way he could. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -485,7 +473,6 @@
 			<title>Ep 151: Chris Rock</title>
 			<itunes:title>Chris Rock</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Chris Rock is known for being a security researcher. But he's also a black hat incident responder. He tells us about a job he did in the middle east.</itunes:subtitle>
 			<itunes:summary><![CDATA[Chris Rock is known for being a security researcher. But he's also a black hat incident responder. He tells us about a job he did in the middle east.]]></itunes:summary>
 			<description><![CDATA[Chris Rock is known for being a security researcher. But he's also a black hat incident responder. He tells us about a job he did in the middle east. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -504,7 +491,6 @@
 			<title>Ep 150: mobman 2</title>
 			<itunes:title>mobman 2</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In Episode 20 of Darknet Diaries, we heard from Greg aka mobman who said he created the sub7 malware. Something doesn't sit right with a lot of people about that episode. It's time to revisit that episode and get to the bottom of things.</itunes:subtitle>
 			<itunes:summary><![CDATA[In Episode 20 of Darknet Diaries, we heard from Greg aka mobman who said he created the sub7 malware. Something doesn't sit right with a lot of people about that episode. It's time to revisit that episode and get to the bottom of things.]]></itunes:summary>
 			<description><![CDATA[In Episode 20 of Darknet Diaries, we heard from Greg aka mobman who said he created the sub7 malware. Something doesn't sit right with a lot of people about that episode. It's time to revisit that episode and get to the bottom of things. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -523,7 +509,6 @@
 			<title>Ep 149: Mini-Stories: Vol 3</title>
 			<itunes:title>Mini-Stories: Vol 3</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In this episode we hear EvilMog tell us a story about when he had to troubleshoot networks in Afghanistan. We also get Joe to tell us a penetration test story.</itunes:subtitle>
 			<itunes:summary><![CDATA[In this episode we hear EvilMog tell us a story about when he had to troubleshoot networks in Afghanistan. We also get Joe to tell us a penetration test story.]]></itunes:summary>
 			<description><![CDATA[In this episode we hear EvilMog tell us a story about when he had to troubleshoot networks in Afghanistan. We also get Joe to tell us a penetration test story. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -542,7 +527,6 @@
 			<title>Ep 148: Dubsnatch</title>
 			<itunes:title>Dubsnatch</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Ever wondered how far a fan would go to get a sneak peek of their favorite artist’s unreleased tracks? In this episode, we uncover the audacious story of some teens bent on getting their hands on the newest dubstep music before anyone else.</itunes:subtitle>
 			<itunes:summary><![CDATA[Ever wondered how far a fan would go to get a sneak peek of their favorite artist’s unreleased tracks? In this episode, we uncover the audacious story of some teens bent on getting their hands on the newest dubstep music before anyone else.]]></itunes:summary>
 			<description><![CDATA[Ever wondered how far a fan would go to get a sneak peek of their favorite artist’s unreleased tracks? In this episode, we uncover the audacious story of some teens bent on getting their hands on the newest dubstep music before anyone else. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -561,7 +545,6 @@
 			<title>Ep 147: Tornado</title>
 			<itunes:title>Tornado</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In this episode, Geoff White tells us what happened to Axie Infinity and Tornado cash. It’s a digital heist of epic proportions that changed everything.</itunes:subtitle>
 			<itunes:summary><![CDATA[In this episode, Geoff White tells us what happened to Axie Infinity and Tornado cash. It’s a digital heist of epic proportions that changed everything.]]></itunes:summary>
 			<description><![CDATA[In this episode, Geoff White tells us what happened to Axie Infinity and Tornado cash. It’s a digital heist of epic proportions that changed everything. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -580,7 +563,6 @@
 			<title>Ep 146: ANOM</title>
 			<itunes:title>ANOM</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In this episode, Joseph Cox tells us the story of ANOM. A secure phone made by criminals, for criminals.</itunes:subtitle>
 			<itunes:summary><![CDATA[In this episode, Joseph Cox tells us the story of ANOM. A secure phone made by criminals, for criminals.]]></itunes:summary>
 			<description><![CDATA[In this episode, Joseph Cox tells us the story of ANOM. A secure phone made by criminals, for criminals. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -599,7 +581,6 @@
 			<title>Ep 145: Shannen</title>
 			<itunes:title>Shannen</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Shannen Rossmiller wanted to fight terrorism. So she went online and did. </itunes:subtitle>
 			<itunes:summary><![CDATA[Shannen Rossmiller wanted to fight terrorism. So she went online and did. ]]></itunes:summary>
 			<description><![CDATA[Shannen Rossmiller wanted to fight terrorism. So she went online and did.  <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -618,7 +599,6 @@
 			<title>Ep 144: Rachel</title>
 			<itunes:title>Rachel</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Rachel Tobac is a social engineer. In this episode we hear how she got started doing this and a few stories of how she hacked people and places using her voice and charm.</itunes:subtitle>
 			<itunes:summary><![CDATA[Rachel Tobac is a social engineer. In this episode we hear how she got started doing this and a few stories of how she hacked people and places using her voice and charm.]]></itunes:summary>
 			<description><![CDATA[Rachel Tobac is a social engineer. In this episode we hear how she got started doing this and a few stories of how she hacked people and places using her voice and charm. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -637,7 +617,6 @@
 			<title>Ep 143: Jim Hates Scams</title>
 			<itunes:title>Jim Hates Scams</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Jim Browning has dedicated himself to combatting scammers, taking a proactive stance by infiltrating their computer systems. Through his efforts, he not only disrupts these fraudulent operations but also shares his findings publicly on YouTube, shedding light on the intricacies of scam networks. His work uncovers a myriad of intriguing insights into the digital underworld, which he articulately discusses, offering viewers a behind-the-scenes look at his methods for fighting back against scammers.</itunes:subtitle>
 			<itunes:summary><![CDATA[Jim Browning has dedicated himself to combatting scammers, taking a proactive stance by infiltrating their computer systems. Through his efforts, he not only disrupts these fraudulent operations but also shares his findings publicly on YouTube, shedding light on the intricacies of scam networks. His work uncovers a myriad of intriguing insights into the digital underworld, which he articulately discusses, offering viewers a behind-the-scenes look at his methods for fighting back against scammers.]]></itunes:summary>
 			<description><![CDATA[Jim Browning has dedicated himself to combatting scammers, taking a proactive stance by infiltrating their computer systems. Through his efforts, he not only disrupts these fraudulent operations but also shares his findings publicly on YouTube, shedding light on the intricacies of scam networks. His work uncovers a myriad of intriguing insights into the digital underworld, which he articulately discusses, offering viewers a behind-the-scenes look at his methods for fighting back against scammers. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -656,7 +635,6 @@
 			<title>Ep 142: Axact</title>
 			<itunes:title>Axact</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Axact sells fake diplomas and degrees. What could go wrong with this business plan?</itunes:subtitle>
 			<itunes:summary><![CDATA[Axact sells fake diplomas and degrees. What could go wrong with this business plan?]]></itunes:summary>
 			<description><![CDATA[Axact sells fake diplomas and degrees. What could go wrong with this business plan? <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -675,7 +653,6 @@
 			<title>Ep 141: The Pig Butcher</title>
 			<itunes:title>The Pig Butcher</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>The #1 crime which results in the biggest financial loss is BEC fraud. The #2 crime is pig butchering. Ronnie Tokazowski walks us through this wild world.</itunes:subtitle>
 			<itunes:summary><![CDATA[The #1 crime which results in the biggest financial loss is BEC fraud. The #2 crime is pig butchering. Ronnie Tokazowski walks us through this wild world.]]></itunes:summary>
 			<description><![CDATA[The #1 crime which results in the biggest financial loss is BEC fraud. The #2 crime is pig butchering. Ronnie Tokazowski walks us through this wild world. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -694,7 +671,6 @@
 			<title>Ep 140: Revenge Bytes</title>
 			<itunes:title>Revenge Bytes</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Madison's nude photos were posted online. Her twin sister Christine came to help. This begins a bizarre and uneasy story.</itunes:subtitle>
 			<itunes:summary><![CDATA[Madison's nude photos were posted online. Her twin sister Christine came to help. This begins a bizarre and uneasy story.]]></itunes:summary>
 			<description><![CDATA[Madison's nude photos were posted online. Her twin sister Christine came to help. This begins a bizarre and uneasy story. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -713,7 +689,6 @@
 			<title>Ep 139: D3f4ult</title>
 			<itunes:title>D3f4ult</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>This is the story of D3f4ult from CWA. He was a hacktivist, upset with the state of the way things were, and wanted to make some changes. Changes were made.</itunes:subtitle>
 			<itunes:summary><![CDATA[This is the story of D3f4ult from CWA. He was a hacktivist, upset with the state of the way things were, and wanted to make some changes. Changes were made.]]></itunes:summary>
 			<description><![CDATA[This is the story of D3f4ult from CWA. He was a hacktivist, upset with the state of the way things were, and wanted to make some changes. Changes were made. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -732,7 +707,6 @@
 			<title>Ep 138: The Mimics of Punjab</title>
 			<itunes:title>The Mimics of Punjab</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>This episode is about scammers in the Punjab region. Tarun comes on the show to tell us a story of what happened to him. Naomi Brockwell makes an appearance to speak about digital privacy.</itunes:subtitle>
 			<itunes:summary><![CDATA[This episode is about scammers in the Punjab region. Tarun comes on the show to tell us a story of what happened to him. Naomi Brockwell makes an appearance to speak about digital privacy.]]></itunes:summary>
 			<description><![CDATA[This episode is about scammers in the Punjab region. Tarun comes on the show to tell us a story of what happened to him. Naomi Brockwell makes an appearance to speak about digital privacy. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -751,7 +725,6 @@
 			<title>Ep 137: Predator</title>
 			<itunes:title>Predator</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>A new type of mercenary spyware came on the radar called Predator. It'll infect a mobile phone, and then suck up all the data from it. Contacts, text messages, location, and more. This malware is being sold to intelligence agencies around the world. </itunes:subtitle>
 			<itunes:summary><![CDATA[A new type of mercenary spyware came on the radar called Predator. It'll infect a mobile phone, and then suck up all the data from it. Contacts, text messages, location, and more. This malware is being sold to intelligence agencies around the world. ]]></itunes:summary>
 			<description><![CDATA[A new type of mercenary spyware came on the radar called Predator. It'll infect a mobile phone, and then suck up all the data from it. Contacts, text messages, location, and more. This malware is being sold to intelligence agencies around the world.  <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -770,7 +743,6 @@
 			<title>Ep 136: Team Xecuter</title>
 			<itunes:title>Team Xecuter</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Team Xecuter was a group involved with making and selling modchips for video game systems. They often made mods that allowed the video game system to rip games or play pirated games. It was a crowd favorite in the modding scene. Until it all fell apart. The story of what happened to Team Xecuter must be heard to believe.</itunes:subtitle>
 			<itunes:summary><![CDATA[Team Xecuter was a group involved with making and selling modchips for video game systems. They often made mods that allowed the video game system to rip games or play pirated games. It was a crowd favorite in the modding scene. Until it all fell apart. The story of what happened to Team Xecuter must be heard to believe.]]></itunes:summary>
 			<description><![CDATA[Team Xecuter was a group involved with making and selling modchips for video game systems. They often made mods that allowed the video game system to rip games or play pirated games. It was a crowd favorite in the modding scene. Until it all fell apart. The story of what happened to Team Xecuter must be heard to believe. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -789,7 +761,6 @@
 			<title>Ep 135: The D.R. Incident</title>
 			<itunes:title>The D.R. Incident</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Omar Avilez worked in the CSIRT of the Dominican Republic when a major cyber security incident erupted. Omar walks us through what happened and the incident response procedures that he went through.</itunes:subtitle>
 			<itunes:summary><![CDATA[Omar Avilez worked in the CSIRT of the Dominican Republic when a major cyber security incident erupted. Omar walks us through what happened and the incident response procedures that he went through.]]></itunes:summary>
 			<description><![CDATA[Omar Avilez worked in the CSIRT of the Dominican Republic when a major cyber security incident erupted. Omar walks us through what happened and the incident response procedures that he went through. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -808,7 +779,6 @@
 			<title>Ep 134: Deviant</title>
 			<itunes:title>Deviant</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Deviant Ollam is a physical penetration specialist. That means he's paid to break into buildings to see if the building is secure or not. He has done this for a long time and has a lot of tricks up his sleeve to get into buildings. In this episode we hear 3 stories of him breaking into buildings for a living.</itunes:subtitle>
 			<itunes:summary><![CDATA[Deviant Ollam is a physical penetration specialist. That means he's paid to break into buildings to see if the building is secure or not. He has done this for a long time and has a lot of tricks up his sleeve to get into buildings. In this episode we hear 3 stories of him breaking into buildings for a living.]]></itunes:summary>
 			<description><![CDATA[Deviant Ollam is a physical penetration specialist. That means he's paid to break into buildings to see if the building is secure or not. He has done this for a long time and has a lot of tricks up his sleeve to get into buildings. In this episode we hear 3 stories of him breaking into buildings for a living. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -827,7 +797,6 @@
 			<title>Ep 133: I'm the Real Connor</title>
 			<itunes:title>I'm the Real Connor</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>One day Connor got an email saying his identity has been stolen. And this was one of the strangest days he's ever had.</itunes:subtitle>
 			<itunes:summary><![CDATA[One day Connor got an email saying his identity has been stolen. And this was one of the strangest days he's ever had.]]></itunes:summary>
 			<description><![CDATA[One day Connor got an email saying his identity has been stolen. And this was one of the strangest days he's ever had. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -846,7 +815,6 @@
 			<title>Ep 132: Sam the Vendor</title>
 			<itunes:title>Sam the Vendor</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Sam Bent, a.k.a. DoingFedTime, brings us a story of what it was like being a darknet market vendor.</itunes:subtitle>
 			<itunes:summary><![CDATA[Sam Bent, a.k.a. DoingFedTime, brings us a story of what it was like being a darknet market vendor.]]></itunes:summary>
 			<description><![CDATA[Sam Bent, a.k.a. DoingFedTime, brings us a story of what it was like being a darknet market vendor. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -865,7 +833,6 @@
 			<title>Ep 131: Welcome To Video</title>
 			<itunes:title>Welcome To Video</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Andy Greenberg brings us a gut wrenching story of how criminal investigators used bitcoin tracing techniques to try to find out who was at the center of a child sexual abuse darkweb website.</itunes:subtitle>
 			<itunes:summary><![CDATA[Andy Greenberg brings us a gut wrenching story of how criminal investigators used bitcoin tracing techniques to try to find out who was at the center of a child sexual abuse darkweb website.]]></itunes:summary>
 			<description><![CDATA[Andy Greenberg brings us a gut wrenching story of how criminal investigators used bitcoin tracing techniques to try to find out who was at the center of a child sexual abuse darkweb website. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -884,7 +851,6 @@
 			<title>Ep 130: Jason's Pen Test</title>
 			<itunes:title>Jason's Pen Test</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Jason Haddix has done hundreds of penetration tests in his career. He comes on the show today to tell us a few stories of things he's done.</itunes:subtitle>
 			<itunes:summary><![CDATA[Jason Haddix has done hundreds of penetration tests in his career. He comes on the show today to tell us a few stories of things he's done.]]></itunes:summary>
 			<description><![CDATA[Jason Haddix has done hundreds of penetration tests in his career. He comes on the show today to tell us a few stories of things he's done. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -903,7 +869,6 @@
 			<title>Ep 129: Gollumfun (Part 2)</title>
 			<itunes:title>Gollumfun (Part 2)</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Brett Johnson, AKA Gollumfun was involved with the websites Counterfeit Library and Shadow Crew. He tells his story of what happened there and some of the crimes he committed.</itunes:subtitle>
 			<itunes:summary><![CDATA[Brett Johnson, AKA Gollumfun was involved with the websites Counterfeit Library and Shadow Crew. He tells his story of what happened there and some of the crimes he committed.]]></itunes:summary>
 			<description><![CDATA[Brett Johnson, AKA Gollumfun was involved with the websites Counterfeit Library and Shadow Crew. He tells his story of what happened there and some of the crimes he committed. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -922,7 +887,6 @@
 			<title>Ep 128: Gollumfun (Part 1)</title>
 			<itunes:title>Gollumfun (Part 1)</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Brett Johnson, AKA Gollumfun was involved with the websites Counterfeit Library and Shadow Crew. He tells his story of what happened there and some of the crimes he committed.</itunes:subtitle>
 			<itunes:summary><![CDATA[Brett Johnson, AKA Gollumfun was involved with the websites Counterfeit Library and Shadow Crew. He tells his story of what happened there and some of the crimes he committed.]]></itunes:summary>
 			<description><![CDATA[Brett Johnson, AKA Gollumfun was involved with the websites Counterfeit Library and Shadow Crew. He tells his story of what happened there and some of the crimes he committed. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -941,7 +905,6 @@
 			<title>Ep 127: Maddie</title>
 			<itunes:title>Maddie</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Maddie Stone is a security researcher for Google’s Project Zero. In this episode we hear what it’s like battling zero day vulnerabilities.</itunes:subtitle>
 			<itunes:summary><![CDATA[Maddie Stone is a security researcher for Google’s Project Zero. In this episode we hear what it’s like battling zero day vulnerabilities.]]></itunes:summary>
 			<description><![CDATA[Maddie Stone is a security researcher for Google’s Project Zero. In this episode we hear what it’s like battling zero day vulnerabilities. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -960,7 +923,6 @@
 			<title>Ep 126: REvil</title>
 			<itunes:title>REvil</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>REvil is the name of a ransomware service as well as a group of criminals inflicting ransomware onto the world. Hear how this ransomware shook the world.</itunes:subtitle>
 			<itunes:summary><![CDATA[REvil is the name of a ransomware service as well as a group of criminals inflicting ransomware onto the world. Hear how this ransomware shook the world.]]></itunes:summary>
 			<description><![CDATA[REvil is the name of a ransomware service as well as a group of criminals inflicting ransomware onto the world. Hear how this ransomware shook the world. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -979,7 +941,6 @@
 			<title>Ep 125: Jeremiah</title>
 			<itunes:title>Jeremiah</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Jeremiah Roe is a seasoned penetration tester. In this episode he tells us about a time when he had to break into a building to prove it wasn't as secure as the company thought.</itunes:subtitle>
 			<itunes:summary><![CDATA[Jeremiah Roe is a seasoned penetration tester. In this episode he tells us about a time when he had to break into a building to prove it wasn't as secure as the company thought.]]></itunes:summary>
 			<description><![CDATA[Jeremiah Roe is a seasoned penetration tester. In this episode he tells us about a time when he had to break into a building to prove it wasn't as secure as the company thought. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -998,7 +959,6 @@
 			<title>Ep 124: Synthetic Remittance</title>
 			<itunes:title>Synthetic Remittance</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>What do you get when you combine social engineering, email, crime, finance, and the money stream flowing through big tech? Evaldas Rimašauskas comes to mind. He combined all these to make his big move. A whale of a move.</itunes:subtitle>
 			<itunes:summary><![CDATA[What do you get when you combine social engineering, email, crime, finance, and the money stream flowing through big tech? Evaldas Rimašauskas comes to mind. He combined all these to make his big move. A whale of a move.]]></itunes:summary>
 			<description><![CDATA[What do you get when you combine social engineering, email, crime, finance, and the money stream flowing through big tech? Evaldas Rimašauskas comes to mind. He combined all these to make his big move. A whale of a move. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1017,7 +977,6 @@
 			<title>Ep 123: Newswires</title>
 			<itunes:title>Newswires</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Investing in the stock market can be very profitable. Especially if you can see into the future. This is a story of how a group of traders and hackers got together to figure out a way to see into the future and make a lot of money from that.</itunes:subtitle>
 			<itunes:summary><![CDATA[Investing in the stock market can be very profitable. Especially if you can see into the future. This is a story of how a group of traders and hackers got together to figure out a way to see into the future and make a lot of money from that.]]></itunes:summary>
 			<description><![CDATA[Investing in the stock market can be very profitable. Especially if you can see into the future. This is a story of how a group of traders and hackers got together to figure out a way to see into the future and make a lot of money from that. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1036,7 +995,6 @@
 			<title>Ep 122: Lisa</title>
 			<itunes:title>Lisa</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In this episode we hear some insider threat stories from Lisa Forte.</itunes:subtitle>
 			<itunes:summary><![CDATA[In this episode we hear some insider threat stories from Lisa Forte.]]></itunes:summary>
 			<description><![CDATA[In this episode we hear some insider threat stories from Lisa Forte. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1055,7 +1013,6 @@
 			<title>Ep 121: Ed</title>
 			<itunes:title>Ed</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In this episode we hear some penetration test stories from Ed Skoudis. We also catch up with Beau Woods from I am The Cavalry.</itunes:subtitle>
 			<itunes:summary><![CDATA[In this episode we hear some penetration test stories from Ed Skoudis. We also catch up with Beau Woods from I am The Cavalry.]]></itunes:summary>
 			<description><![CDATA[In this episode we hear some penetration test stories from Ed Skoudis. We also catch up with Beau Woods from I am The Cavalry. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1074,7 +1031,6 @@
 			<title>Ep 120: Voulnet</title>
 			<itunes:title>Voulnet</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>This is the story about when Mohammed Aldoub, AKA Voulnet, found a vulnerability on VirusTotal and Tweeted about it.</itunes:subtitle>
 			<itunes:summary><![CDATA[This is the story about when Mohammed Aldoub, AKA Voulnet, found a vulnerability on VirusTotal and Tweeted about it.]]></itunes:summary>
 			<description><![CDATA[This is the story about when Mohammed Aldoub, AKA Voulnet, found a vulnerability on VirusTotal and Tweeted about it. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1093,7 +1049,6 @@
 			<title>Ep 119: Hot Wallets</title>
 			<itunes:title>Hot Wallets</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In this episode we hear from journalist Geoff White who talks about some of the recent crypto currency heists that have been happening. Geoff has been tracking a group of thieves for some time and shares his knowledge of what he's found.</itunes:subtitle>
 			<itunes:summary><![CDATA[In this episode we hear from journalist Geoff White who talks about some of the recent crypto currency heists that have been happening. Geoff has been tracking a group of thieves for some time and shares his knowledge of what he's found.]]></itunes:summary>
 			<description><![CDATA[In this episode we hear from journalist Geoff White who talks about some of the recent crypto currency heists that have been happening. Geoff has been tracking a group of thieves for some time and shares his knowledge of what he's found. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1112,7 +1067,6 @@
 			<title>Ep 118: Hot Swaps</title>
 			<itunes:title>Hot Swaps</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>This is the story of Joseph Harris. When he was a young teen he got involved with stealing video game accounts and selling them for money. This set him on a course where he flew higher and higher until he got burned.</itunes:subtitle>
 			<itunes:summary><![CDATA[This is the story of Joseph Harris. When he was a young teen he got involved with stealing video game accounts and selling them for money. This set him on a course where he flew higher and higher until he got burned.]]></itunes:summary>
 			<description><![CDATA[This is the story of Joseph Harris. When he was a young teen he got involved with stealing video game accounts and selling them for money. This set him on a course where he flew higher and higher until he got burned. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1131,7 +1085,6 @@
 			<title>Ep 117: Daniel the Paladin</title>
 			<itunes:title>Daniel the Paladin</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Daniel Kelley was equal parts mischievousness and clever when it came to computers. Until the day his mischief overtook his cleverness.</itunes:subtitle>
 			<itunes:summary><![CDATA[Daniel Kelley was equal parts mischievousness and clever when it came to computers. Until the day his mischief overtook his cleverness.]]></itunes:summary>
 			<description><![CDATA[Daniel Kelley was equal parts mischievousness and clever when it came to computers. Until the day his mischief overtook his cleverness. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1150,7 +1103,6 @@
 			<title>Ep 116: Mad Dog</title>
 			<itunes:title>Mad Dog</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Jim Lawler, aka 'Mad Dog', was a CIA case officer for 25 years. In this episode we hear some of the stories he has and things he did while working in the CIA. </itunes:subtitle>
 			<itunes:summary><![CDATA[Jim Lawler, aka 'Mad Dog', was a CIA case officer for 25 years. In this episode we hear some of the stories he has and things he did while working in the CIA. ]]></itunes:summary>
 			<description><![CDATA[Jim Lawler, aka 'Mad Dog', was a CIA case officer for 25 years. In this episode we hear some of the stories he has and things he did while working in the CIA.  <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1169,7 +1121,6 @@
 			<title>Ep 115: Player Cheater Developer Spy</title>
 			<itunes:title>Player Cheater Developer Spy</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Some video game players buy cheats to win. Let's take a look at this game cheating industry to see who the players are.</itunes:subtitle>
 			<itunes:summary><![CDATA[Some video game players buy cheats to win. Let's take a look at this game cheating industry to see who the players are.]]></itunes:summary>
 			<description><![CDATA[Some video game players buy cheats to win. Let's take a look at this game cheating industry to see who the players are. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1188,7 +1139,6 @@
 			<title>Ep 114: HD</title>
 			<itunes:title>HD</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>HD Moore invented a hacking tool called Metasploit. He crammed it with tons of exploits and payloads that can be used to hack into computers. What could possibly go wrong?</itunes:subtitle>
 			<itunes:summary><![CDATA[HD Moore invented a hacking tool called Metasploit. He crammed it with tons of exploits and payloads that can be used to hack into computers. What could possibly go wrong?]]></itunes:summary>
 			<description><![CDATA[HD Moore invented a hacking tool called Metasploit. He crammed it with tons of exploits and payloads that can be used to hack into computers. What could possibly go wrong? <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1207,7 +1157,6 @@
 			<title>Ep 113: Adam</title>
 			<itunes:title>Adam</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Adam got a job doing IT work at a learning academy. He liked it and was happy there and feeling part of the team. But a strange series of events took him in another direction, that definitely didn't make him happy.</itunes:subtitle>
 			<itunes:summary><![CDATA[Adam got a job doing IT work at a learning academy. He liked it and was happy there and feeling part of the team. But a strange series of events took him in another direction, that definitely didn't make him happy.]]></itunes:summary>
 			<description><![CDATA[Adam got a job doing IT work at a learning academy. He liked it and was happy there and feeling part of the team. But a strange series of events took him in another direction, that definitely didn't make him happy. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1226,7 +1175,6 @@
 			<title>Ep 112: Dirty Coms</title>
 			<itunes:title>Dirty Coms</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>This episode we talk with a guy named Drew who gives us a rare peek into what some of the young hackers are up to today. From listening to Drew, we can see that times are changing for the motive behind hacking. In the '90s and '00s it was done for fun and curiosity. In the '10s Anonymous showed us what Hacktivism is. And now, in the '20s, the young hackers seem to be profit driven.</itunes:subtitle>
 			<itunes:summary><![CDATA[This episode we talk with a guy named Drew who gives us a rare peek into what some of the young hackers are up to today. From listening to Drew, we can see that times are changing for the motive behind hacking. In the '90s and '00s it was done for fun and curiosity. In the '10s Anonymous showed us what Hacktivism is. And now, in the '20s, the young hackers seem to be profit driven.]]></itunes:summary>
 			<description><![CDATA[This episode we talk with a guy named Drew who gives us a rare peek into what some of the young hackers are up to today. From listening to Drew, we can see that times are changing for the motive behind hacking. In the '90s and '00s it was done for fun and curiosity. In the '10s Anonymous showed us what Hacktivism is. And now, in the '20s, the young hackers seem to be profit driven. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1245,7 +1193,6 @@
 			<title>Ep 111: ZeuS</title>
 			<itunes:title>ZeuS</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>ZeuS is a banking trojan. Designed to steal money from online bank user's accounts. This trojan became so big, that it resulted in one of the biggest FBI operations ever. </itunes:subtitle>
 			<itunes:summary><![CDATA[ZeuS is a banking trojan. Designed to steal money from online bank user's accounts. This trojan became so big, that it resulted in one of the biggest FBI operations ever. ]]></itunes:summary>
 			<description><![CDATA[ZeuS is a banking trojan. Designed to steal money from online bank user's accounts. This trojan became so big, that it resulted in one of the biggest FBI operations ever.  <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1264,7 +1211,6 @@
 			<title>Ep 110: Spam Botnets</title>
 			<itunes:title>Spam Botnets</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>This episode tells the stories of some of the worlds biggest spamming botnets. We'll talk about the botnets Rustock, Waledac, and Cutwail. We'll discover who was behind them, what their objectives were and what their fate was.</itunes:subtitle>
 			<itunes:summary><![CDATA[This episode tells the stories of some of the worlds biggest spamming botnets. We'll talk about the botnets Rustock, Waledac, and Cutwail. We'll discover who was behind them, what their objectives were and what their fate was.]]></itunes:summary>
 			<description><![CDATA[This episode tells the stories of some of the worlds biggest spamming botnets. We'll talk about the botnets Rustock, Waledac, and Cutwail. We'll discover who was behind them, what their objectives were and what their fate was. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1283,7 +1229,6 @@
 			<title>Ep 109: TeaMp0isoN</title>
 			<itunes:title>TeaMp0isoN</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>TeaMp0isoN was a hacking group that was founded by TriCk and MLT. They were responsible for some high profile hacks. But in this story it’s not the rise that’s most interesting. It’s the fall.</itunes:subtitle>
 			<itunes:summary><![CDATA[TeaMp0isoN was a hacking group that was founded by TriCk and MLT. They were responsible for some high profile hacks. But in this story it’s not the rise that’s most interesting. It’s the fall.]]></itunes:summary>
 			<description><![CDATA[TeaMp0isoN was a hacking group that was founded by TriCk and MLT. They were responsible for some high profile hacks. But in this story it’s not the rise that’s most interesting. It’s the fall. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1302,7 +1247,6 @@
 			<title>Ep 108: Marq</title>
 			<itunes:title>Marq</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>This is the story of Marq. Which involves passwords, the dark web, and police.</itunes:subtitle>
 			<itunes:summary><![CDATA[This is the story of Marq. Which involves passwords, the dark web, and police.]]></itunes:summary>
 			<description><![CDATA[This is the story of Marq. Which involves passwords, the dark web, and police. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1321,7 +1265,6 @@
 			<title>Ep 107: Alethe</title>
 			<itunes:title>Alethe</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Alethe is a social engineer. Professionally she tries to trick people to give her passwords and access that she shouldn't have. But her journey to this point is interesting and in this episode she tells us how she became a social engineer.</itunes:subtitle>
 			<itunes:summary><![CDATA[Alethe is a social engineer. Professionally she tries to trick people to give her passwords and access that she shouldn't have. But her journey to this point is interesting and in this episode she tells us how she became a social engineer.]]></itunes:summary>
 			<description><![CDATA[Alethe is a social engineer. Professionally she tries to trick people to give her passwords and access that she shouldn't have. But her journey to this point is interesting and in this episode she tells us how she became a social engineer. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1340,7 +1283,6 @@
 			<title>Ep 106: @Tennessee</title>
 			<itunes:title>@Tennessee</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>How much online abuse are you willing to take before you decide to let your abuser have what they want? Unfortunately, this is a decision that many people have to ask themselves.</itunes:subtitle>
 			<itunes:summary><![CDATA[How much online abuse are you willing to take before you decide to let your abuser have what they want? Unfortunately, this is a decision that many people have to ask themselves.]]></itunes:summary>
 			<description><![CDATA[How much online abuse are you willing to take before you decide to let your abuser have what they want? Unfortunately, this is a decision that many people have to ask themselves. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1359,7 +1301,6 @@
 			<title>Ep 105: Secret Cells</title>
 			<itunes:title>Secret Cells</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Joseph Cox, Senior Staff Writer at Motherboard, joins us to talk about the world of encrypted phones.</itunes:subtitle>
 			<itunes:summary><![CDATA[Joseph Cox, Senior Staff Writer at Motherboard, joins us to talk about the world of encrypted phones.]]></itunes:summary>
 			<description><![CDATA[Joseph Cox, Senior Staff Writer at Motherboard, joins us to talk about the world of encrypted phones. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1378,7 +1319,6 @@
 			<title>Ep 104: Arya</title>
 			<itunes:title>Arya</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Arya Ebrahami has had quite a personal relationship with darknet marketplaces. In this episode you’ll hear about his adventures on tor.</itunes:subtitle>
 			<itunes:summary><![CDATA[Arya Ebrahami has had quite a personal relationship with darknet marketplaces. In this episode you’ll hear about his adventures on tor.]]></itunes:summary>
 			<description><![CDATA[Arya Ebrahami has had quite a personal relationship with darknet marketplaces. In this episode you’ll hear about his adventures on tor. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1397,7 +1337,6 @@
 			<title>Ep 103: Cloud Hopper</title>
 			<itunes:title>Cloud Hopper</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Fabio Viggiani is an incident responder. In this episode he talks about the story when one of his clients were breached.</itunes:subtitle>
 			<itunes:summary><![CDATA[Fabio Viggiani is an incident responder. In this episode he talks about the story when one of his clients were breached.]]></itunes:summary>
 			<description><![CDATA[Fabio Viggiani is an incident responder. In this episode he talks about the story when one of his clients were breached. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1416,7 +1355,6 @@
 			<title>Ep 102: Money Maker</title>
 			<itunes:title>Money Maker</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Frank Bourassa had an idea. He was going to make money. Literally. Listen to the story of a master counterfeiter.</itunes:subtitle>
 			<itunes:summary><![CDATA[Frank Bourassa had an idea. He was going to make money. Literally. Listen to the story of a master counterfeiter.]]></itunes:summary>
 			<description><![CDATA[Frank Bourassa had an idea. He was going to make money. Literally. Listen to the story of a master counterfeiter. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1435,7 +1373,6 @@
 			<title>Ep 101: Lotería</title>
 			<itunes:title>Lotería</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In 2014 the Puerto Rico Lottery was mysteriously losing money. Listen to this never before told story about what happened and who did it.</itunes:subtitle>
 			<itunes:summary><![CDATA[In 2014 the Puerto Rico Lottery was mysteriously losing money. Listen to this never before told story about what happened and who did it.]]></itunes:summary>
 			<description><![CDATA[In 2014 the Puerto Rico Lottery was mysteriously losing money. Listen to this never before told story about what happened and who did it. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1454,7 +1391,6 @@
 			<title>Ep 100: NSO</title>
 			<itunes:title>NSO</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>The NSO Group creates a spyware called Pegasus which gives someone access to the data on a mobile phone. They sell this spyware to government agencies around the world. How is it used and what kind of company is the NSO Group? </itunes:subtitle>
 			<itunes:summary><![CDATA[The NSO Group creates a spyware called Pegasus which gives someone access to the data on a mobile phone. They sell this spyware to government agencies around the world. How is it used and what kind of company is the NSO Group? ]]></itunes:summary>
 			<description><![CDATA[The NSO Group creates a spyware called Pegasus which gives someone access to the data on a mobile phone. They sell this spyware to government agencies around the world. How is it used and what kind of company is the NSO Group?  <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1473,7 +1409,6 @@
 			<title>Ep 99: The Spy</title>
 			<itunes:title>The Spy</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Igor works as a private investigator in NYC. He's often sitting in cars keeping a distant eye on someone with binoculars. Or following someone through the busy streets of New York. In this episode we hear about a time when Igor was on a case but sensed that something wasn't right.</itunes:subtitle>
 			<itunes:summary><![CDATA[Igor works as a private investigator in NYC. He's often sitting in cars keeping a distant eye on someone with binoculars. Or following someone through the busy streets of New York. In this episode we hear about a time when Igor was on a case but sensed that something wasn't right.]]></itunes:summary>
 			<description><![CDATA[Igor works as a private investigator in NYC. He's often sitting in cars keeping a distant eye on someone with binoculars. Or following someone through the busy streets of New York. In this episode we hear about a time when Igor was on a case but sensed that something wasn't right. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1492,7 +1427,6 @@
 			<title>Ep 98: Zero Day Brokers</title>
 			<itunes:title>Zero Day Brokers</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Zero day brokers are people who make or sell malware that's sold to people who will use that malware to exploit people. It's a strange and mysterious world that not many people know a lot about. Nicole Perlroth, who is a cybersecurity reporter for the NY Times, dove in head first which resulted in her writing a whole book on it.</itunes:subtitle>
 			<itunes:summary><![CDATA[Zero day brokers are people who make or sell malware that's sold to people who will use that malware to exploit people. It's a strange and mysterious world that not many people know a lot about. Nicole Perlroth, who is a cybersecurity reporter for the NY Times, dove in head first which resulted in her writing a whole book on it.]]></itunes:summary>
 			<description><![CDATA[Zero day brokers are people who make or sell malware that's sold to people who will use that malware to exploit people. It's a strange and mysterious world that not many people know a lot about. Nicole Perlroth, who is a cybersecurity reporter for the NY Times, dove in head first which resulted in her writing a whole book on it. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1511,7 +1445,6 @@
 			<title>Ep 97: The Pizza Problem</title>
 			<itunes:title>The Pizza Problem</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>What if someone wanted to own your Instagram account? Not just control it, but make it totally theirs. This episode tells the story of how someone tried to steal an Instagram account from someone.</itunes:subtitle>
 			<itunes:summary><![CDATA[What if someone wanted to own your Instagram account? Not just control it, but make it totally theirs. This episode tells the story of how someone tried to steal an Instagram account from someone.]]></itunes:summary>
 			<description><![CDATA[What if someone wanted to own your Instagram account? Not just control it, but make it totally theirs. This episode tells the story of how someone tried to steal an Instagram account from someone. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1530,7 +1463,6 @@
 			<title>Ep 96: The Police Station Incident</title>
 			<itunes:title>The Police Station Incident</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Nicole Beckwith wears a lot of hats. She's a programmer, incident responder, but also a cop and a task force officer with the Secret Service. In this episode she tells a story which involves all of these roles.</itunes:subtitle>
 			<itunes:summary><![CDATA[Nicole Beckwith wears a lot of hats. She's a programmer, incident responder, but also a cop and a task force officer with the Secret Service. In this episode she tells a story which involves all of these roles.]]></itunes:summary>
 			<description><![CDATA[Nicole Beckwith wears a lot of hats. She's a programmer, incident responder, but also a cop and a task force officer with the Secret Service. In this episode she tells a story which involves all of these roles. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1549,7 +1481,6 @@
 			<title>Ep 95: Jon &amp; Brian's Big Adventure</title>
 			<itunes:title>Jon &amp; Brian's Big Adventure</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Jon and Brian are penetration testers. They're paid to break into buildings and hack into networks to test the security of those buildings. In this episode they bring us a story of when everything goes wrong.</itunes:subtitle>
 			<itunes:summary><![CDATA[Jon and Brian are penetration testers. They're paid to break into buildings and hack into networks to test the security of those buildings. In this episode they bring us a story of when everything goes wrong.]]></itunes:summary>
 			<description><![CDATA[Jon and Brian are penetration testers. They're paid to break into buildings and hack into networks to test the security of those buildings. In this episode they bring us a story of when everything goes wrong. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1568,7 +1499,6 @@
 			<title>Ep 94: Mariposa Botnet</title>
 			<itunes:title>Mariposa Botnet</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Chris Davis has been stopping IT security threats for decades. In this episode he tells a few tales of some threats that he helped stop.</itunes:subtitle>
 			<itunes:summary><![CDATA[Chris Davis has been stopping IT security threats for decades. In this episode he tells a few tales of some threats that he helped stop.]]></itunes:summary>
 			<description><![CDATA[Chris Davis has been stopping IT security threats for decades. In this episode he tells a few tales of some threats that he helped stop. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1587,7 +1517,6 @@
 			<title>Ep 93: Kik</title>
 			<itunes:title>Kik</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Kik is a wildly popular chat app. Their website says that 1 in 3 American teenagers use Kik. But something dark is brewing on Kik.</itunes:subtitle>
 			<itunes:summary><![CDATA[Kik is a wildly popular chat app. Their website says that 1 in 3 American teenagers use Kik. But something dark is brewing on Kik.]]></itunes:summary>
 			<description><![CDATA[Kik is a wildly popular chat app. Their website says that 1 in 3 American teenagers use Kik. But something dark is brewing on Kik. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1606,7 +1535,6 @@
 			<title>Ep 92: The Pirate Bay</title>
 			<itunes:title>The Pirate Bay</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>The Pirate Bay is a website, a search engine, which has an index of torrent files. A lot of copyrighted material is listed on the site, but the site doesn't store any of the copyrighted material. It just points the user to where you can download it from. So for a while The Pirate Bay has been the largest places you can find pirated movies, music, games, and apps. But this site first came up 2003. And is still up and operation now, 18 years later! You would think someone would shut this place down by now. How does the biggest source for copyrighted material stay up and online for that long? Listen to this episode to find out.</itunes:subtitle>
 			<itunes:summary><![CDATA[The Pirate Bay is a website, a search engine, which has an index of torrent files. A lot of copyrighted material is listed on the site, but the site doesn't store any of the copyrighted material. It just points the user to where you can download it from. So for a while The Pirate Bay has been the largest places you can find pirated movies, music, games, and apps. But this site first came up 2003. And is still up and operation now, 18 years later! You would think someone would shut this place down by now. How does the biggest source for copyrighted material stay up and online for that long? Listen to this episode to find out.]]></itunes:summary>
 			<description><![CDATA[The Pirate Bay is a website, a search engine, which has an index of torrent files. A lot of copyrighted material is listed on the site, but the site doesn't store any of the copyrighted material. It just points the user to where you can download it from. So for a while The Pirate Bay has been the largest places you can find pirated movies, music, games, and apps. But this site first came up 2003. And is still up and operation now, 18 years later! You would think someone would shut this place down by now. How does the biggest source for copyrighted material stay up and online for that long? Listen to this episode to find out. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1625,7 +1553,6 @@
 			<title>Ep 91: webjedi</title>
 			<itunes:title>webjedi</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>What happens when an unauthorized intruder gets into the network of a major bank? Amélie Koran, aka webjedi, was there for one of these intrusions and tells us the story of what happened.</itunes:subtitle>
 			<itunes:summary><![CDATA[What happens when an unauthorized intruder gets into the network of a major bank? Amélie Koran, aka webjedi, was there for one of these intrusions and tells us the story of what happened.]]></itunes:summary>
 			<description><![CDATA[What happens when an unauthorized intruder gets into the network of a major bank? Amélie Koran, aka webjedi, was there for one of these intrusions and tells us the story of what happened. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1644,7 +1571,6 @@
 			<title>Ep 90: Jenny</title>
 			<itunes:title>Jenny</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Meet Jenny Radcliffe, the People Hacker. She's a social engineer and physical penetration tester. Which means she gets paid to break into buildings and test their security. In this episode she tells us a few stories of some penetration testing jobs she's done. </itunes:subtitle>
 			<itunes:summary><![CDATA[Meet Jenny Radcliffe, the People Hacker. She's a social engineer and physical penetration tester. Which means she gets paid to break into buildings and test their security. In this episode she tells us a few stories of some penetration testing jobs she's done. ]]></itunes:summary>
 			<description><![CDATA[Meet Jenny Radcliffe, the People Hacker. She's a social engineer and physical penetration tester. Which means she gets paid to break into buildings and test their security. In this episode she tells us a few stories of some penetration testing jobs she's done.  <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1663,7 +1589,6 @@
 			<title>Ep 89: Cybereason: Molerats in the Cloud</title>
 			<itunes:title>Cybereason: Molerats in the Cloud</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>The threat research team at Cybereason uncovered an interesting piece of malware. Studied it and tracked it. Which lead them to believe they were dealing with a threat actor known as Molerats. </itunes:subtitle>
 			<itunes:summary><![CDATA[The threat research team at Cybereason uncovered an interesting piece of malware. Studied it and tracked it. Which lead them to believe they were dealing with a threat actor known as Molerats. ]]></itunes:summary>
 			<description><![CDATA[The threat research team at Cybereason uncovered an interesting piece of malware. Studied it and tracked it. Which lead them to believe they were dealing with a threat actor known as Molerats.  <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1682,7 +1607,6 @@
 			<title>Ep 88: Victor</title>
 			<itunes:title>Victor</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Victor looks for vulnerabilities on the web and reports them responsibly. This is the story about discloser number 5780.</itunes:subtitle>
 			<itunes:summary><![CDATA[Victor looks for vulnerabilities on the web and reports them responsibly. This is the story about discloser number 5780.]]></itunes:summary>
 			<description><![CDATA[Victor looks for vulnerabilities on the web and reports them responsibly. This is the story about discloser number 5780. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1701,7 +1625,6 @@
 			<title>Ep 87: Guild of the Grumpy Old Hackers</title>
 			<itunes:title>Guild of the Grumpy Old Hackers</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In 2016 the LinkedIn breach data became available to the public. What the Guild of the Grumpy Old Hackers did with it then is quite the story.</itunes:subtitle>
 			<itunes:summary><![CDATA[In 2016 the LinkedIn breach data became available to the public. What the Guild of the Grumpy Old Hackers did with it then is quite the story.]]></itunes:summary>
 			<description><![CDATA[In 2016 the LinkedIn breach data became available to the public. What the Guild of the Grumpy Old Hackers did with it then is quite the story. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1720,7 +1643,6 @@
 			<title>Ep 86: The LinkedIn Incident</title>
 			<itunes:title>The LinkedIn Incident</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In 2012, LinkedIn was the target of a data breach. A hacker got in and stole millions of user details. Username and password hashes were then sold to people willing to buy. This episode goes over the story of what happened.</itunes:subtitle>
 			<itunes:summary><![CDATA[In 2012, LinkedIn was the target of a data breach. A hacker got in and stole millions of user details. Username and password hashes were then sold to people willing to buy. This episode goes over the story of what happened.]]></itunes:summary>
 			<description><![CDATA[In 2012, LinkedIn was the target of a data breach. A hacker got in and stole millions of user details. Username and password hashes were then sold to people willing to buy. This episode goes over the story of what happened. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1739,7 +1661,6 @@
 			<title>Ep 85: Cam the Carder</title>
 			<itunes:title>Cam the Carder</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>This is the story of Cam Harrison, aka kilobit and his rise and fall as a prominent carder.</itunes:subtitle>
 			<itunes:summary><![CDATA[This is the story of Cam Harrison, aka kilobit and his rise and fall as a prominent carder.]]></itunes:summary>
 			<description><![CDATA[This is the story of Cam Harrison, aka kilobit and his rise and fall as a prominent carder. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1758,7 +1679,6 @@
 			<title>Ep 84: Jet-setters</title>
 			<itunes:title>Jet-setters</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>How bad is it if you post your boarding pass on Instagram? Our guest Alex decides to figure this out for themself and has quite a story about what happened. We also hear from TProphet who’s here to give us some travel hacks to save tons on airfare when we start traveling again.</itunes:subtitle>
 			<itunes:summary><![CDATA[How bad is it if you post your boarding pass on Instagram? Our guest Alex decides to figure this out for themself and has quite a story about what happened. We also hear from TProphet who’s here to give us some travel hacks to save tons on airfare when we start traveling again.]]></itunes:summary>
 			<description><![CDATA[How bad is it if you post your boarding pass on Instagram? Our guest Alex decides to figure this out for themself and has quite a story about what happened. We also hear from TProphet who’s here to give us some travel hacks to save tons on airfare when we start traveling again. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1777,7 +1697,6 @@
 			<title>Ep 83: NSA Cryptologists</title>
 			<itunes:title>NSA Cryptologists</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In this episode we interview two NSA Cryptologists, Marcus J. Carey and Jeff Man. We hear their story of how they got into the NSA and what they did while there.</itunes:subtitle>
 			<itunes:summary><![CDATA[In this episode we interview two NSA Cryptologists, Marcus J. Carey and Jeff Man. We hear their story of how they got into the NSA and what they did while there.]]></itunes:summary>
 			<description><![CDATA[In this episode we interview two NSA Cryptologists, Marcus J. Carey and Jeff Man. We hear their story of how they got into the NSA and what they did while there. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1796,7 +1715,6 @@
 			<title>Ep 82: Master of Pwn</title>
 			<itunes:title>Master of Pwn</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>The Zero Day Initiative runs a contest called Pwn2Own. The contest calls the best hackers in the world to demonstrate they can hack into software that should be secure. Like browsers, phones, even cars. Whoever can demonstrate the most vulnerabilities will be crowned the Master of Pwn.</itunes:subtitle>
 			<itunes:summary><![CDATA[The Zero Day Initiative runs a contest called Pwn2Own. The contest calls the best hackers in the world to demonstrate they can hack into software that should be secure. Like browsers, phones, even cars. Whoever can demonstrate the most vulnerabilities will be crowned the Master of Pwn.]]></itunes:summary>
 			<description><![CDATA[The Zero Day Initiative runs a contest called Pwn2Own. The contest calls the best hackers in the world to demonstrate they can hack into software that should be secure. Like browsers, phones, even cars. Whoever can demonstrate the most vulnerabilities will be crowned the Master of Pwn. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1815,7 +1733,6 @@
 			<title>Ep 81: The Vendor</title>
 			<itunes:title>The Vendor</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>This is the story of a darknet marketplace vendor we'll name V. He tells his story of how he first became a buyer, then transitioned into seller.</itunes:subtitle>
 			<itunes:summary><![CDATA[This is the story of a darknet marketplace vendor we'll name V. He tells his story of how he first became a buyer, then transitioned into seller.]]></itunes:summary>
 			<description><![CDATA[This is the story of a darknet marketplace vendor we'll name V. He tells his story of how he first became a buyer, then transitioned into seller. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1834,7 +1751,6 @@
 			<title>Ep 80: The Whistleblower</title>
 			<itunes:title>The Whistleblower</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In this episode we hear a story from a social engineer who's job it is to get people to do things they don't want to do. Why? For profit. </itunes:subtitle>
 			<itunes:summary><![CDATA[In this episode we hear a story from a social engineer who's job it is to get people to do things they don't want to do. Why? For profit. ]]></itunes:summary>
 			<description><![CDATA[In this episode we hear a story from a social engineer who's job it is to get people to do things they don't want to do. Why? For profit.  <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1853,7 +1769,6 @@
 			<title>Ep 79: Dark Basin</title>
 			<itunes:title>Dark Basin</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>What do you do when you find yourself the target of a massive hacking campaign, and you are getting thousands of phishing emails and someone following you in your car. You might turn to Citizen Lab who has the ability to research who is behind this and help bring the hackers to justice.</itunes:subtitle>
 			<itunes:summary><![CDATA[What do you do when you find yourself the target of a massive hacking campaign, and you are getting thousands of phishing emails and someone following you in your car. You might turn to Citizen Lab who has the ability to research who is behind this and help bring the hackers to justice.]]></itunes:summary>
 			<description><![CDATA[What do you do when you find yourself the target of a massive hacking campaign, and you are getting thousands of phishing emails and someone following you in your car. You might turn to Citizen Lab who has the ability to research who is behind this and help bring the hackers to justice. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1872,7 +1787,6 @@
 			<title>Ep 78: Nerdcore</title>
 			<itunes:title>Nerdcore</itunes:title>
 			<itunes:author></itunes:author>
-    		<itunes:subtitle>Nerdcore music is music for nerds. In this episode we hear from some of the musicians who make Nerdcore music.</itunes:subtitle>
 			<itunes:summary><![CDATA[Nerdcore music is music for nerds. In this episode we hear from some of the musicians who make Nerdcore music.]]></itunes:summary>
 			<description><![CDATA[Nerdcore music is music for nerds. In this episode we hear from some of the musicians who make Nerdcore music. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1891,7 +1805,6 @@
 			<title>Ep 77: Olympic Destroyer</title>
 			<itunes:title>Olympic Destroyer</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In February 2018, during the Winter Olympics in Pyeongchang South Korea, a cyber attack struck, wiping out a lot of the Olympic's digital infrastructure. Teams rushed to get things back up, but it was bad. Malware had repeatedly wiped the domain controllers rendering a lot of the network unusable. Who would do such a thing?</itunes:subtitle>
 			<itunes:summary><![CDATA[In February 2018, during the Winter Olympics in Pyeongchang South Korea, a cyber attack struck, wiping out a lot of the Olympic's digital infrastructure. Teams rushed to get things back up, but it was bad. Malware had repeatedly wiped the domain controllers rendering a lot of the network unusable. Who would do such a thing?]]></itunes:summary>
 			<description><![CDATA[In February 2018, during the Winter Olympics in Pyeongchang South Korea, a cyber attack struck, wiping out a lot of the Olympic's digital infrastructure. Teams rushed to get things back up, but it was bad. Malware had repeatedly wiped the domain controllers rendering a lot of the network unusable. Who would do such a thing? <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1910,7 +1823,6 @@
 			<title>Ep 76: Knaves Out</title>
 			<itunes:title>Knaves Out</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>This is the story about how someone hacked into JP Morgan Chase, one of the biggest financial institutions in the world. It's obvious why someone would want to break into a bank right? Well the people who hacked into this bank, did not do it for obvious reasons. The hackers are best described as knaves. Which are tricky, deceitful fellows.</itunes:subtitle>
 			<itunes:summary><![CDATA[This is the story about how someone hacked into JP Morgan Chase, one of the biggest financial institutions in the world. It's obvious why someone would want to break into a bank right? Well the people who hacked into this bank, did not do it for obvious reasons. The hackers are best described as knaves. Which are tricky, deceitful fellows.]]></itunes:summary>
 			<description><![CDATA[This is the story about how someone hacked into JP Morgan Chase, one of the biggest financial institutions in the world. It's obvious why someone would want to break into a bank right? Well the people who hacked into this bank, did not do it for obvious reasons. The hackers are best described as knaves. Which are tricky, deceitful fellows. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1929,7 +1841,6 @@
 			<title>Ep 75: Compromised Comms</title>
 			<itunes:title>Compromised Comms</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>From 2009 to 2013 the communication channels the CIA uses to contact assets in foreign countries was compromised. This had terrifying consequences.</itunes:subtitle>
 			<itunes:summary><![CDATA[From 2009 to 2013 the communication channels the CIA uses to contact assets in foreign countries was compromised. This had terrifying consequences.]]></itunes:summary>
 			<description><![CDATA[From 2009 to 2013 the communication channels the CIA uses to contact assets in foreign countries was compromised. This had terrifying consequences. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1948,7 +1859,6 @@
 			<title>Ep 74: Mikko</title>
 			<itunes:title>Mikko</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Poker is a competitive game. Unlike other casino games, poker is player vs player. Criminal hackers have understood this for a while and sometimes hack the other players to get an edge. And that small edge can result in millions of dollars in winnings. This episode contains a story from [Mikko Hypponen](https://twitter.com/mikko) of [F-Secure](https://www.f-secure.com/en). We also interview Mikko to know more about him and the history of malware.</itunes:subtitle>
 			<itunes:summary><![CDATA[Poker is a competitive game. Unlike other casino games, poker is player vs player. Criminal hackers have understood this for a while and sometimes hack the other players to get an edge. And that small edge can result in millions of dollars in winnings. This episode contains a story from [Mikko Hypponen](https://twitter.com/mikko) of [F-Secure](https://www.f-secure.com/en). We also interview Mikko to know more about him and the history of malware.]]></itunes:summary>
 			<description><![CDATA[Poker is a competitive game. Unlike other casino games, poker is player vs player. Criminal hackers have understood this for a while and sometimes hack the other players to get an edge. And that small edge can result in millions of dollars in winnings. This episode contains a story from [Mikko Hypponen](https://twitter.com/mikko) of [F-Secure](https://www.f-secure.com/en). We also interview Mikko to know more about him and the history of malware. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1967,7 +1877,6 @@
 			<title>Ep 73: WannaCry</title>
 			<itunes:title>WannaCry</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In May 2017 the world fell victim to a major ransomware attack known as WannaCry. One of the victims was UK's national health service. Security researchers scrambled to try to figure out how to stop it and who was behind it.</itunes:subtitle>
 			<itunes:summary><![CDATA[In May 2017 the world fell victim to a major ransomware attack known as WannaCry. One of the victims was UK's national health service. Security researchers scrambled to try to figure out how to stop it and who was behind it.]]></itunes:summary>
 			<description><![CDATA[In May 2017 the world fell victim to a major ransomware attack known as WannaCry. One of the victims was UK's national health service. Security researchers scrambled to try to figure out how to stop it and who was behind it. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -1986,7 +1895,6 @@
 			<title>Ep 72: Bangladesh Bank Heist</title>
 			<itunes:title>Bangladesh Bank Heist</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>This story is about a bank robbery with the objective to steal 1 billion dollars. Which makes this the largest bank robbery in history. And it was all done over a computer.</itunes:subtitle>
 			<itunes:summary><![CDATA[This story is about a bank robbery with the objective to steal 1 billion dollars. Which makes this the largest bank robbery in history. And it was all done over a computer.]]></itunes:summary>
 			<description><![CDATA[This story is about a bank robbery with the objective to steal 1 billion dollars. Which makes this the largest bank robbery in history. And it was all done over a computer. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2005,7 +1913,6 @@
 			<title>Ep 71: Information Monopoly</title>
 			<itunes:title>Information Monopoly</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In this episode, we're going into the depths of North Korea to conduct one of the greatest hacks of all time. To find a way to inject information into a country run by totalitarian regime. </itunes:subtitle>
 			<itunes:summary><![CDATA[In this episode, we're going into the depths of North Korea to conduct one of the greatest hacks of all time. To find a way to inject information into a country run by totalitarian regime. ]]></itunes:summary>
 			<description><![CDATA[In this episode, we're going into the depths of North Korea to conduct one of the greatest hacks of all time. To find a way to inject information into a country run by totalitarian regime.  <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2024,7 +1931,6 @@
 			<title>Ep 70: Ghost Exodus</title>
 			<itunes:title>Ghost Exodus</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Ghost Exodus is a hacker. He conducted various illegal activities online. Some of which he documents on YouTube. He's also a great musician. He got into some trouble from his hacking. This is his story.</itunes:subtitle>
 			<itunes:summary><![CDATA[Ghost Exodus is a hacker. He conducted various illegal activities online. Some of which he documents on YouTube. He's also a great musician. He got into some trouble from his hacking. This is his story.]]></itunes:summary>
 			<description><![CDATA[Ghost Exodus is a hacker. He conducted various illegal activities online. Some of which he documents on YouTube. He's also a great musician. He got into some trouble from his hacking. This is his story. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2043,7 +1949,6 @@
 			<title>Ep 69: Human Hacker</title>
 			<itunes:title>Human Hacker</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>We all know that computers and networks are vulnerable to hacking and malicious actors, but what about us, the humans who interface with these devices? Con games, scams, and strategic deception are far older than computers, and in the modern era, these techniques can make humans the weakest link in even the most secure system. This episode, security consultant and master social engineer, Christopher Hadnagy, joins us to share his stories and wisdom. He describes what it was like to be a social engineer before the world knew what social engineering was and tells some of his amazing stories from his long career in penetration testing.</itunes:subtitle>
 			<itunes:summary><![CDATA[We all know that computers and networks are vulnerable to hacking and malicious actors, but what about us, the humans who interface with these devices? Con games, scams, and strategic deception are far older than computers, and in the modern era, these techniques can make humans the weakest link in even the most secure system. This episode, security consultant and master social engineer, Christopher Hadnagy, joins us to share his stories and wisdom. He describes what it was like to be a social engineer before the world knew what social engineering was and tells some of his amazing stories from his long career in penetration testing.]]></itunes:summary>
 			<description><![CDATA[We all know that computers and networks are vulnerable to hacking and malicious actors, but what about us, the humans who interface with these devices? Con games, scams, and strategic deception are far older than computers, and in the modern era, these techniques can make humans the weakest link in even the most secure system. This episode, security consultant and master social engineer, Christopher Hadnagy, joins us to share his stories and wisdom. He describes what it was like to be a social engineer before the world knew what social engineering was and tells some of his amazing stories from his long career in penetration testing. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2062,7 +1967,6 @@
 			<title>Ep 68: Triton</title>
 			<itunes:title>Triton</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>A mysterious mechanical failure one fateful night in a Saudi Arabian chemical plant leads a cast of operational technology researchers down a strange path towards an uncommon, but grave, threat. In this episode, we hear how these researchers discovered this threat and tried to identify who was responsible for the malware behind it. We also consider how this kind of attack may pose a threat to human life wherever there are manufacturing or public infrastructure facilities around the world.</itunes:subtitle>
 			<itunes:summary><![CDATA[A mysterious mechanical failure one fateful night in a Saudi Arabian chemical plant leads a cast of operational technology researchers down a strange path towards an uncommon, but grave, threat. In this episode, we hear how these researchers discovered this threat and tried to identify who was responsible for the malware behind it. We also consider how this kind of attack may pose a threat to human life wherever there are manufacturing or public infrastructure facilities around the world.]]></itunes:summary>
 			<description><![CDATA[A mysterious mechanical failure one fateful night in a Saudi Arabian chemical plant leads a cast of operational technology researchers down a strange path towards an uncommon, but grave, threat. In this episode, we hear how these researchers discovered this threat and tried to identify who was responsible for the malware behind it. We also consider how this kind of attack may pose a threat to human life wherever there are manufacturing or public infrastructure facilities around the world. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2081,7 +1985,6 @@
 			<title>Ep 67: The Big House</title>
 			<itunes:title>The Big House</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>John Strand is a penetration tester. He's paid to break into computer networks and buildings to test their security. In this episode we listen to stories he has from doing this type of work.</itunes:subtitle>
 			<itunes:summary><![CDATA[John Strand is a penetration tester. He's paid to break into computer networks and buildings to test their security. In this episode we listen to stories he has from doing this type of work.]]></itunes:summary>
 			<description><![CDATA[John Strand is a penetration tester. He's paid to break into computer networks and buildings to test their security. In this episode we listen to stories he has from doing this type of work. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2100,7 +2003,6 @@
 			<title>Ep 66: Freakyclown</title>
 			<itunes:title>Freakyclown</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Freakyclown is a physical penetration tester. His job is to break into buildings to test the security of the building. In this episode we hear stories of some of these missions he's been on.</itunes:subtitle>
 			<itunes:summary><![CDATA[Freakyclown is a physical penetration tester. His job is to break into buildings to test the security of the building. In this episode we hear stories of some of these missions he's been on.]]></itunes:summary>
 			<description><![CDATA[Freakyclown is a physical penetration tester. His job is to break into buildings to test the security of the building. In this episode we hear stories of some of these missions he's been on. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2119,7 +2021,6 @@
 			<title>Ep 65: PSYOP</title>
 			<itunes:title>PSYOP</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>PSYOP, or Psychological Operations, is something the US military has been doing to foreign audiences for decades. But what exactly is it? And what's the difference between white, gray, and black PSYOP missions? We talk to PSYOP specialists to learn more.</itunes:subtitle>
 			<itunes:summary><![CDATA[PSYOP, or Psychological Operations, is something the US military has been doing to foreign audiences for decades. But what exactly is it? And what's the difference between white, gray, and black PSYOP missions? We talk to PSYOP specialists to learn more.]]></itunes:summary>
 			<description><![CDATA[PSYOP, or Psychological Operations, is something the US military has been doing to foreign audiences for decades. But what exactly is it? And what's the difference between white, gray, and black PSYOP missions? We talk to PSYOP specialists to learn more. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2138,7 +2039,6 @@
 			<title>Ep 64: The Athens Shadow Games</title>
 			<itunes:title>The Athens Shadow Games</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Vodafone Greece is the largest telecom provider in Greece. But in 2004 a scandal within the company would pin them to be top of the news cycle in Greece for weeks. Hackers got in the network. And what they were after took everyone by surprise.</itunes:subtitle>
 			<itunes:summary><![CDATA[Vodafone Greece is the largest telecom provider in Greece. But in 2004 a scandal within the company would pin them to be top of the news cycle in Greece for weeks. Hackers got in the network. And what they were after took everyone by surprise.]]></itunes:summary>
 			<description><![CDATA[Vodafone Greece is the largest telecom provider in Greece. But in 2004 a scandal within the company would pin them to be top of the news cycle in Greece for weeks. Hackers got in the network. And what they were after took everyone by surprise. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2157,7 +2057,6 @@
 			<title>Ep 63: w0rmer</title>
 			<itunes:title>w0rmer</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>The hacker named w0rmer was active within AnonOps. These are Anonymous Operations which often organize and wage attacks on websites or people often with the purpose of social justice. Eventually w0rmer joined in on some of these hacking escapades which resulted in an incredible story that he will one day tell his kids.</itunes:subtitle>
 			<itunes:summary><![CDATA[The hacker named w0rmer was active within AnonOps. These are Anonymous Operations which often organize and wage attacks on websites or people often with the purpose of social justice. Eventually w0rmer joined in on some of these hacking escapades which resulted in an incredible story that he will one day tell his kids.]]></itunes:summary>
 			<description><![CDATA[The hacker named w0rmer was active within AnonOps. These are Anonymous Operations which often organize and wage attacks on websites or people often with the purpose of social justice. Eventually w0rmer joined in on some of these hacking escapades which resulted in an incredible story that he will one day tell his kids. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2176,7 +2075,6 @@
 			<title>Ep 62: Cam</title>
 			<itunes:title>Cam</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Cam's story is both a cautionary tale and inspirational at the same time. He's been both an attacker and defender. And not the legal kind of attacker. He has caused half a million dollars in damages with his attacks. Attacks that arose from a feeling of seeing injustices in the world. Listen to his story.</itunes:subtitle>
 			<itunes:summary><![CDATA[Cam's story is both a cautionary tale and inspirational at the same time. He's been both an attacker and defender. And not the legal kind of attacker. He has caused half a million dollars in damages with his attacks. Attacks that arose from a feeling of seeing injustices in the world. Listen to his story.]]></itunes:summary>
 			<description><![CDATA[Cam's story is both a cautionary tale and inspirational at the same time. He's been both an attacker and defender. And not the legal kind of attacker. He has caused half a million dollars in damages with his attacks. Attacks that arose from a feeling of seeing injustices in the world. Listen to his story. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2195,7 +2093,6 @@
 			<title>Ep 61: Samy</title>
 			<itunes:title>Samy</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Samy Kamkar is a hacker. And while he's done a lot of stuff, he's best known for creating the Samy Worm. Which spread its way through a popular social media site and had crazy results.  </itunes:subtitle>
 			<itunes:summary><![CDATA[Samy Kamkar is a hacker. And while he's done a lot of stuff, he's best known for creating the Samy Worm. Which spread its way through a popular social media site and had crazy results.  ]]></itunes:summary>
 			<description><![CDATA[Samy Kamkar is a hacker. And while he's done a lot of stuff, he's best known for creating the Samy Worm. Which spread its way through a popular social media site and had crazy results.   <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2214,7 +2111,6 @@
 			<title>Ep 60: dawgyg</title>
 			<itunes:title>dawgyg</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>This is a story about the hacker named dawgyg and how he made over $100,000 in a single day, from hacking.</itunes:subtitle>
 			<itunes:summary><![CDATA[This is a story about the hacker named dawgyg and how he made over $100,000 in a single day, from hacking.]]></itunes:summary>
 			<description><![CDATA[This is a story about the hacker named dawgyg and how he made over $100,000 in a single day, from hacking. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2233,7 +2129,6 @@
 			<title>Ep 59: The Courthouse</title>
 			<itunes:title>The Courthouse</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In this episode we hear from Gary and Justin. Two seasoned penetration testers who tell us a story about the time when they tried to break into a courthouse but it went all wrong. </itunes:subtitle>
 			<itunes:summary><![CDATA[In this episode we hear from Gary and Justin. Two seasoned penetration testers who tell us a story about the time when they tried to break into a courthouse but it went all wrong. ]]></itunes:summary>
 			<description><![CDATA[In this episode we hear from Gary and Justin. Two seasoned penetration testers who tell us a story about the time when they tried to break into a courthouse but it went all wrong.  <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2252,7 +2147,6 @@
 			<title>Ep 58: OxyMonster</title>
 			<itunes:title>OxyMonster</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>OxyMonster sold drugs on the dark web marketplace Dream Market. Something happened though, and it all came crashing down.</itunes:subtitle>
 			<itunes:summary><![CDATA[OxyMonster sold drugs on the dark web marketplace Dream Market. Something happened though, and it all came crashing down.]]></itunes:summary>
 			<description><![CDATA[OxyMonster sold drugs on the dark web marketplace Dream Market. Something happened though, and it all came crashing down. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2271,7 +2165,6 @@
 			<title>Ep 57: MS08-067</title>
 			<itunes:title>MS08-067</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Hear what goes on internally when Microsoft discovers a major vulnerability within Windows.</itunes:subtitle>
 			<itunes:summary><![CDATA[Hear what goes on internally when Microsoft discovers a major vulnerability within Windows.]]></itunes:summary>
 			<description><![CDATA[Hear what goes on internally when Microsoft discovers a major vulnerability within Windows. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2290,7 +2183,6 @@
 			<title>Ep 56: Jordan</title>
 			<itunes:title>Jordan</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>This is the story of Jordan Harbinger. A bit of a misfit teenager, who was always on the edge of trouble. In this story we hear what happened that lead to a visit from the FBI. </itunes:subtitle>
 			<itunes:summary><![CDATA[This is the story of Jordan Harbinger. A bit of a misfit teenager, who was always on the edge of trouble. In this story we hear what happened that lead to a visit from the FBI. ]]></itunes:summary>
 			<description><![CDATA[This is the story of Jordan Harbinger. A bit of a misfit teenager, who was always on the edge of trouble. In this story we hear what happened that lead to a visit from the FBI.  <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2309,7 +2201,6 @@
 			<title>Ep 55: NoirNet</title>
 			<itunes:title>NoirNet</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>A holiday special episode. A private pen tester takes on a job that involves him with another eccentric pen tester, a mischievious smile, and his quest to gain access to the network.</itunes:subtitle>
 			<itunes:summary><![CDATA[A holiday special episode. A private pen tester takes on a job that involves him with another eccentric pen tester, a mischievious smile, and his quest to gain access to the network.]]></itunes:summary>
 			<description><![CDATA[A holiday special episode. A private pen tester takes on a job that involves him with another eccentric pen tester, a mischievious smile, and his quest to gain access to the network. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2328,7 +2219,6 @@
 			<title>Ep 54: NotPetya</title>
 			<itunes:title>NotPetya</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>This is the story of NotPetya. Which seems to be the first time we've seen what a cyber war looks like. In the summer of 2017 Ukraine suffered a serious and catastrophic cyber attack on their whole country. Hear how it went down, what got hit, and who was responsible.</itunes:subtitle>
 			<itunes:summary><![CDATA[This is the story of NotPetya. Which seems to be the first time we've seen what a cyber war looks like. In the summer of 2017 Ukraine suffered a serious and catastrophic cyber attack on their whole country. Hear how it went down, what got hit, and who was responsible.]]></itunes:summary>
 			<description><![CDATA[This is the story of NotPetya. Which seems to be the first time we've seen what a cyber war looks like. In the summer of 2017 Ukraine suffered a serious and catastrophic cyber attack on their whole country. Hear how it went down, what got hit, and who was responsible. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2347,7 +2237,6 @@
 			<title>Ep 53: Shadow Brokers</title>
 			<itunes:title>Shadow Brokers</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>The NSA has some pretty advanced, super secret, hacking tools. What if these secret hacking tools were to end up in the wrong person's hands? Well, that happened.</itunes:subtitle>
 			<itunes:summary><![CDATA[The NSA has some pretty advanced, super secret, hacking tools. What if these secret hacking tools were to end up in the wrong person's hands? Well, that happened.]]></itunes:summary>
 			<description><![CDATA[The NSA has some pretty advanced, super secret, hacking tools. What if these secret hacking tools were to end up in the wrong person's hands? Well, that happened. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2366,7 +2255,6 @@
 			<title>Ep 52: Magecart</title>
 			<itunes:title>Magecart</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Credit card skimming is growing in popularity. Gas pumps all over are seeing skimmers attached to them. It's growing in popularity because it's really effective. Hackers have noticed how effective it is and have began skimming credit cards from websites.</itunes:subtitle>
 			<itunes:summary><![CDATA[Credit card skimming is growing in popularity. Gas pumps all over are seeing skimmers attached to them. It's growing in popularity because it's really effective. Hackers have noticed how effective it is and have began skimming credit cards from websites.]]></itunes:summary>
 			<description><![CDATA[Credit card skimming is growing in popularity. Gas pumps all over are seeing skimmers attached to them. It's growing in popularity because it's really effective. Hackers have noticed how effective it is and have began skimming credit cards from websites. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2385,7 +2273,6 @@
 			<title>Ep 51: The Indo-Pak Conflict</title>
 			<itunes:title>The Indo-Pak Conflict</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Kashmir is a region right in between India, Pakistan, and China. For the last 70 years Pakistan and India have fought over this region of the world, both wanting to take control of it. Tensions sometimes heat up which can result in people being killed. When tensions get high in the real world, some people take to the internet and hack their rivals as a form of protest. In this episode we'll explore some of the hacking that goes on between India and Pakistan.</itunes:subtitle>
 			<itunes:summary><![CDATA[Kashmir is a region right in between India, Pakistan, and China. For the last 70 years Pakistan and India have fought over this region of the world, both wanting to take control of it. Tensions sometimes heat up which can result in people being killed. When tensions get high in the real world, some people take to the internet and hack their rivals as a form of protest. In this episode we'll explore some of the hacking that goes on between India and Pakistan.]]></itunes:summary>
 			<description><![CDATA[Kashmir is a region right in between India, Pakistan, and China. For the last 70 years Pakistan and India have fought over this region of the world, both wanting to take control of it. Tensions sometimes heat up which can result in people being killed. When tensions get high in the real world, some people take to the internet and hack their rivals as a form of protest. In this episode we'll explore some of the hacking that goes on between India and Pakistan. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2404,7 +2291,6 @@
 			<title>Ep 50: Operation Glowing Symphony</title>
 			<itunes:title>Operation Glowing Symphony</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Operation Inherent Resolve was started in 2016 which aimed to combat ISIS. It was a combined joint task force lead by the US military. Operation Inherent Resolve sent troops, ships, and air strikes to Iraq and Syria to fire weapons upon ISIS military. It's widely known that US military engaged with ISIS in this way. But what you may not have hear, is the story of how the US military also combated ISIS over the Internet. This is the story of how the US hacked ISIS.</itunes:subtitle>
 			<itunes:summary><![CDATA[Operation Inherent Resolve was started in 2016 which aimed to combat ISIS. It was a combined joint task force lead by the US military. Operation Inherent Resolve sent troops, ships, and air strikes to Iraq and Syria to fire weapons upon ISIS military. It's widely known that US military engaged with ISIS in this way. But what you may not have hear, is the story of how the US military also combated ISIS over the Internet. This is the story of how the US hacked ISIS.]]></itunes:summary>
 			<description><![CDATA[Operation Inherent Resolve was started in 2016 which aimed to combat ISIS. It was a combined joint task force lead by the US military. Operation Inherent Resolve sent troops, ships, and air strikes to Iraq and Syria to fire weapons upon ISIS military. It's widely known that US military engaged with ISIS in this way. But what you may not have hear, is the story of how the US military also combated ISIS over the Internet. This is the story of how the US hacked ISIS. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2423,7 +2309,6 @@
 			<title>Ep 49: Elliot</title>
 			<itunes:title>Elliot</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In this episode we meet Elliot Alderson from Twitter. Who is this strange masked person? What adventures have they gotten themselves into?</itunes:subtitle>
 			<itunes:summary><![CDATA[In this episode we meet Elliot Alderson from Twitter. Who is this strange masked person? What adventures have they gotten themselves into?]]></itunes:summary>
 			<description><![CDATA[In this episode we meet Elliot Alderson from Twitter. Who is this strange masked person? What adventures have they gotten themselves into? <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2442,7 +2327,6 @@
 			<title>Ep 48: Operation Socialist</title>
 			<itunes:title>Operation Socialist</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>This is the story about when a nation state hacks into a company within another nation.</itunes:subtitle>
 			<itunes:summary><![CDATA[This is the story about when a nation state hacks into a company within another nation.]]></itunes:summary>
 			<description><![CDATA[This is the story about when a nation state hacks into a company within another nation. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2461,7 +2345,6 @@
 			<title>Ep 47: Project Raven</title>
 			<itunes:title>Project Raven</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>This is the story about an ex-NSA agent who went to work for a secret hacking group in the UAE.</itunes:subtitle>
 			<itunes:summary><![CDATA[This is the story about an ex-NSA agent who went to work for a secret hacking group in the UAE.]]></itunes:summary>
 			<description><![CDATA[This is the story about an ex-NSA agent who went to work for a secret hacking group in the UAE. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2480,7 +2363,6 @@
 			<title>Ep 46: XBox Underground (Part 2)</title>
 			<itunes:title>XBox Underground (Part 2)</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>This is the story about the XBox hacking scene and how a group of guys pushed the hacking a little too far.</itunes:subtitle>
 			<itunes:summary><![CDATA[This is the story about the XBox hacking scene and how a group of guys pushed the hacking a little too far.]]></itunes:summary>
 			<description><![CDATA[This is the story about the XBox hacking scene and how a group of guys pushed the hacking a little too far. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2499,7 +2381,6 @@
 			<title>Ep 45: XBox Underground (Part 1)</title>
 			<itunes:title>XBox Underground (Part 1)</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>This is the story about the XBox hacking scene and how a group of guys pushed the hacking a little too far.</itunes:subtitle>
 			<itunes:summary><![CDATA[This is the story about the XBox hacking scene and how a group of guys pushed the hacking a little too far.]]></itunes:summary>
 			<description><![CDATA[This is the story about the XBox hacking scene and how a group of guys pushed the hacking a little too far. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2518,7 +2399,6 @@
 			<title>Ep 44: Zain</title>
 			<itunes:title>Zain</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Ransomware is ugly. It infects your machine and locks all the the data and to unlock you have to pay a fee. In this episode we dive into some of the people behind it.</itunes:subtitle>
 			<itunes:summary><![CDATA[Ransomware is ugly. It infects your machine and locks all the the data and to unlock you have to pay a fee. In this episode we dive into some of the people behind it.]]></itunes:summary>
 			<description><![CDATA[Ransomware is ugly. It infects your machine and locks all the the data and to unlock you have to pay a fee. In this episode we dive into some of the people behind it. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2537,7 +2417,6 @@
 			<title>Ep 43: PPP</title>
 			<itunes:title>PPP</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>This is the story about how I acquired a black badge from DEFCON. We also hear the story about who PPP is, and their CTF journey at DEFCON.</itunes:subtitle>
 			<itunes:summary><![CDATA[This is the story about how I acquired a black badge from DEFCON. We also hear the story about who PPP is, and their CTF journey at DEFCON.]]></itunes:summary>
 			<description><![CDATA[This is the story about how I acquired a black badge from DEFCON. We also hear the story about who PPP is, and their CTF journey at DEFCON. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2556,7 +2435,6 @@
 			<title>Ep 42: Mini-Stories: Vol 2</title>
 			<itunes:title>Mini-Stories: Vol 2</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Three stories in one episode. Listen in on one of Dave Kennedy's penetration tests he conducted where he got caught trying to gain entry into a datacenter. Listen to a network security engineer talk about the unexpected visitor found in his network and what he did about it. And listen to Dan Tentler talk about a wild and crazy engagement he did for a client.</itunes:subtitle>
 			<itunes:summary><![CDATA[Three stories in one episode. Listen in on one of Dave Kennedy's penetration tests he conducted where he got caught trying to gain entry into a datacenter. Listen to a network security engineer talk about the unexpected visitor found in his network and what he did about it. And listen to Dan Tentler talk about a wild and crazy engagement he did for a client.]]></itunes:summary>
 			<description><![CDATA[Three stories in one episode. Listen in on one of Dave Kennedy's penetration tests he conducted where he got caught trying to gain entry into a datacenter. Listen to a network security engineer talk about the unexpected visitor found in his network and what he did about it. And listen to Dan Tentler talk about a wild and crazy engagement he did for a client. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2575,7 +2453,6 @@
 			<title>Ep 41: Just Visiting</title>
 			<itunes:title>Just Visiting</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Join JekHyde and Carl on a physical penetration test, a social engineering engagagement, a red team assessment. Their mission is to get into a building they shouldn't be allowed, then plant a rogue computer they can use to hack into the network from a safe place far away.</itunes:subtitle>
 			<itunes:summary><![CDATA[Join JekHyde and Carl on a physical penetration test, a social engineering engagagement, a red team assessment. Their mission is to get into a building they shouldn't be allowed, then plant a rogue computer they can use to hack into the network from a safe place far away.]]></itunes:summary>
 			<description><![CDATA[Join JekHyde and Carl on a physical penetration test, a social engineering engagagement, a red team assessment. Their mission is to get into a building they shouldn't be allowed, then plant a rogue computer they can use to hack into the network from a safe place far away. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2594,7 +2471,6 @@
 			<title>Ep 40: No Parking</title>
 			<itunes:title>No Parking</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Take a ride with a red teamer. A physical penetration tester as he tries to make his away into unauthorized areas, steal sensitive documents, hack into the computers, and escape with company property.</itunes:subtitle>
 			<itunes:summary><![CDATA[Take a ride with a red teamer. A physical penetration tester as he tries to make his away into unauthorized areas, steal sensitive documents, hack into the computers, and escape with company property.]]></itunes:summary>
 			<description><![CDATA[Take a ride with a red teamer. A physical penetration tester as he tries to make his away into unauthorized areas, steal sensitive documents, hack into the computers, and escape with company property. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2613,7 +2489,6 @@
 			<title>Ep 39: 3 Alarm Lamp Scooter</title>
 			<itunes:title>3 Alarm Lamp Scooter</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>A talk at Defcon challenged people to find a way to destroy a hard drive. A young man was inspired by this challenge and was determined to find a way to destroy a hard drive. But this is not a typical young man, with a typical plan.</itunes:subtitle>
 			<itunes:summary><![CDATA[A talk at Defcon challenged people to find a way to destroy a hard drive. A young man was inspired by this challenge and was determined to find a way to destroy a hard drive. But this is not a typical young man, with a typical plan.]]></itunes:summary>
 			<description><![CDATA[A talk at Defcon challenged people to find a way to destroy a hard drive. A young man was inspired by this challenge and was determined to find a way to destroy a hard drive. But this is not a typical young man, with a typical plan. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2632,7 +2507,6 @@
 			<title>Ep 38: Dark Caracal</title>
 			<itunes:title>Dark Caracal</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>A journalist wrote articles critical of the Kazakhstan government. The government did not like this and attempted to silence her. But they may have done more than just silence her. Perhaps they tried to spy on her too. The EFF investigated this case and went down a very interesting rabbit hole.</itunes:subtitle>
 			<itunes:summary><![CDATA[A journalist wrote articles critical of the Kazakhstan government. The government did not like this and attempted to silence her. But they may have done more than just silence her. Perhaps they tried to spy on her too. The EFF investigated this case and went down a very interesting rabbit hole.]]></itunes:summary>
 			<description><![CDATA[A journalist wrote articles critical of the Kazakhstan government. The government did not like this and attempted to silence her. But they may have done more than just silence her. Perhaps they tried to spy on her too. The EFF investigated this case and went down a very interesting rabbit hole. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2651,7 +2525,6 @@
 			<title>Ep 37: LVS</title>
 			<itunes:title>LVS</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>The Venetian casino in Las Vegas Nevada was the largest hotel in the world until 2015. The parent company is Las Vegas Sands (LVS) which owns 10 properties around the world. And the CEO and found of LVS is Sheldon Adelson. One day the CEO said something which sparked quite a firestorm.</itunes:subtitle>
 			<itunes:summary><![CDATA[The Venetian casino in Las Vegas Nevada was the largest hotel in the world until 2015. The parent company is Las Vegas Sands (LVS) which owns 10 properties around the world. And the CEO and found of LVS is Sheldon Adelson. One day the CEO said something which sparked quite a firestorm.]]></itunes:summary>
 			<description><![CDATA[The Venetian casino in Las Vegas Nevada was the largest hotel in the world until 2015. The parent company is Las Vegas Sands (LVS) which owns 10 properties around the world. And the CEO and found of LVS is Sheldon Adelson. One day the CEO said something which sparked quite a firestorm. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2670,7 +2543,6 @@
 			<title>Ep 36: Jeremy from Marketing</title>
 			<itunes:title>Jeremy from Marketing</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>A company hires a penetration tester to pose as a new hire, Jeremy from Marketing, to see how much he can hack into in his first week on the job. It doesn't go as planned.</itunes:subtitle>
 			<itunes:summary><![CDATA[A company hires a penetration tester to pose as a new hire, Jeremy from Marketing, to see how much he can hack into in his first week on the job. It doesn't go as planned.]]></itunes:summary>
 			<description><![CDATA[A company hires a penetration tester to pose as a new hire, Jeremy from Marketing, to see how much he can hack into in his first week on the job. It doesn't go as planned. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2689,7 +2561,6 @@
 			<title>Ep 35: Carbanak</title>
 			<itunes:title>Carbanak</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>ATM hacking. Hollywood has been fantasizing about this since the 1980's. But is this a thing now? A security researcher named Barnaby Jack investigated ATMs and found them to be vulnerable. Once he published his data the ATM hacking scene rose in popularity and is a very serious business today.</itunes:subtitle>
 			<itunes:summary><![CDATA[ATM hacking. Hollywood has been fantasizing about this since the 1980's. But is this a thing now? A security researcher named Barnaby Jack investigated ATMs and found them to be vulnerable. Once he published his data the ATM hacking scene rose in popularity and is a very serious business today.]]></itunes:summary>
 			<description><![CDATA[ATM hacking. Hollywood has been fantasizing about this since the 1980's. But is this a thing now? A security researcher named Barnaby Jack investigated ATMs and found them to be vulnerable. Once he published his data the ATM hacking scene rose in popularity and is a very serious business today. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2708,7 +2579,6 @@
 			<title>Ep 34: For Your Eyes Only</title>
 			<itunes:title>For Your Eyes Only</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Nude selfies. This episode is all about nude selfies. What happens if you take one and give it to a vengeful boyfriend. What happens when a hacker knows you have them and wants to steal them from your phone. Something does happen, and it's not good.</itunes:subtitle>
 			<itunes:summary><![CDATA[Nude selfies. This episode is all about nude selfies. What happens if you take one and give it to a vengeful boyfriend. What happens when a hacker knows you have them and wants to steal them from your phone. Something does happen, and it's not good.]]></itunes:summary>
 			<description><![CDATA[Nude selfies. This episode is all about nude selfies. What happens if you take one and give it to a vengeful boyfriend. What happens when a hacker knows you have them and wants to steal them from your phone. Something does happen, and it's not good. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2727,7 +2597,6 @@
 			<title>Ep 33: RockYou</title>
 			<itunes:title>RockYou</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In 2009 a hacker broke into a website with millions of users and downloaded the entire user database. What that hacker did with the data has changed the way we view account security even today.</itunes:subtitle>
 			<itunes:summary><![CDATA[In 2009 a hacker broke into a website with millions of users and downloaded the entire user database. What that hacker did with the data has changed the way we view account security even today.]]></itunes:summary>
 			<description><![CDATA[In 2009 a hacker broke into a website with millions of users and downloaded the entire user database. What that hacker did with the data has changed the way we view account security even today. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2746,7 +2615,6 @@
 			<title>Ep 32: The Carder</title>
 			<itunes:title>The Carder</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>A carding kingpin was tracked by the Secret Service. Listen to how the Secret Service built a case against him and what they did about it.</itunes:subtitle>
 			<itunes:summary><![CDATA[A carding kingpin was tracked by the Secret Service. Listen to how the Secret Service built a case against him and what they did about it.]]></itunes:summary>
 			<description><![CDATA[A carding kingpin was tracked by the Secret Service. Listen to how the Secret Service built a case against him and what they did about it. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2765,7 +2633,6 @@
 			<title>Ep 31: Hacker Giraffe</title>
 			<itunes:title>Hacker Giraffe</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In late November 2018, a hacker found over 50,000 printers were exposed to the Internet in ways they shouldn't have been. He wanted to raise awareness of this problem, and got himself into a whole heap of trouble.</itunes:subtitle>
 			<itunes:summary><![CDATA[In late November 2018, a hacker found over 50,000 printers were exposed to the Internet in ways they shouldn't have been. He wanted to raise awareness of this problem, and got himself into a whole heap of trouble.]]></itunes:summary>
 			<description><![CDATA[In late November 2018, a hacker found over 50,000 printers were exposed to the Internet in ways they shouldn't have been. He wanted to raise awareness of this problem, and got himself into a whole heap of trouble. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2784,7 +2651,6 @@
 			<title>Ep 30: Shamoon</title>
 			<itunes:title>Shamoon</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In 2012, Saudi Aramco was hit with the most destructive virus ever. Thousands and thousands of computers were destroyed. Herculean efforts were made to restore them to operational status again. But who would do such an attack?</itunes:subtitle>
 			<itunes:summary><![CDATA[In 2012, Saudi Aramco was hit with the most destructive virus ever. Thousands and thousands of computers were destroyed. Herculean efforts were made to restore them to operational status again. But who would do such an attack?]]></itunes:summary>
 			<description><![CDATA[In 2012, Saudi Aramco was hit with the most destructive virus ever. Thousands and thousands of computers were destroyed. Herculean efforts were made to restore them to operational status again. But who would do such an attack? <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2803,7 +2669,6 @@
 			<title>Ep 29: Stuxnet</title>
 			<itunes:title>Stuxnet</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Stuxnet was the most sophisticated virus ever discovered. Its target was a nuclear enrichment facility in Iran. This virus was successfully able to destroy numerous centrifuges. Hear who did it and why.</itunes:subtitle>
 			<itunes:summary><![CDATA[Stuxnet was the most sophisticated virus ever discovered. Its target was a nuclear enrichment facility in Iran. This virus was successfully able to destroy numerous centrifuges. Hear who did it and why.]]></itunes:summary>
 			<description><![CDATA[Stuxnet was the most sophisticated virus ever discovered. Its target was a nuclear enrichment facility in Iran. This virus was successfully able to destroy numerous centrifuges. Hear who did it and why. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2822,7 +2687,6 @@
 			<title>Ep 28: Unit 8200</title>
 			<itunes:title>Unit 8200</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Israel has their own version of the NSA called Unit 8200. Listen along to learn what someone gets into the group, what they do, and what these members do once they leave the unit.</itunes:subtitle>
 			<itunes:summary><![CDATA[Israel has their own version of the NSA called Unit 8200. Listen along to learn what someone gets into the group, what they do, and what these members do once they leave the unit.]]></itunes:summary>
 			<description><![CDATA[Israel has their own version of the NSA called Unit 8200. Listen along to learn what someone gets into the group, what they do, and what these members do once they leave the unit. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2841,7 +2705,6 @@
 			<title>Ep 27: Chartbreakers</title>
 			<itunes:title>Chartbreakers</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Something is wrong with the Apple Podcasts top charts. As a podcaster, this personally annoyed and intrigued me. I investigate how this is happening and who is behind it. &lt;br&gt;&lt;br&gt;For show notes visit &lt;a href='https://darknetdiaries.com/episode/27'&gt;https://darknetdiaries.com&lt;/a&gt;.&lt;br&gt;&lt;br&gt;This episode was sponsored by Nord VPN. Visit &lt;a href='https://nordvpn.com/darknet'&gt;https://nordvpn.com/darknet&lt;/a&gt; and use promo code 'darknet'.</itunes:subtitle>
 			<itunes:summary><![CDATA[Something is wrong with the Apple Podcasts top charts. As a podcaster, this personally annoyed and intrigued me. I investigate how this is happening and who is behind it. <br><br>For show notes visit <a href='https://darknetdiaries.com/episode/27'>https://darknetdiaries.com</a>.<br><br>This episode was sponsored by Nord VPN. Visit <a href='https://nordvpn.com/darknet'>https://nordvpn.com/darknet</a> and use promo code 'darknet'.]]></itunes:summary>
 			<description><![CDATA[Something is wrong with the Apple Podcasts top charts. As a podcaster, this personally annoyed and intrigued me. I investigate how this is happening and who is behind it. <br><br>For show notes visit <a href='https://darknetdiaries.com/episode/27'>https://darknetdiaries.com</a>.<br><br>This episode was sponsored by Nord VPN. Visit <a href='https://nordvpn.com/darknet'>https://nordvpn.com/darknet</a> and use promo code 'darknet'. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2860,7 +2723,6 @@
 			<title>Ep 26: IRS</title>
 			<itunes:title>IRS</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>The IRS processes $3 trillion dollars a year. A lot of criminals want to get a piece of that. In 2015 the IRS had a large data breach. Hundreds of thousands of tax records were leaked. What happened and who was behind this? Listen to this episode to find out.&lt;br&gt;&lt;br&gt;For show notes visit &lt;a href='https://darknetdiaries.com/episode/26'&gt;https://darknetdiaries.com&lt;/a&gt;.</itunes:subtitle>
 			<itunes:summary><![CDATA[The IRS processes $3 trillion dollars a year. A lot of criminals want to get a piece of that. In 2015 the IRS had a large data breach. Hundreds of thousands of tax records were leaked. What happened and who was behind this? Listen to this episode to find out.<br><br>For show notes visit <a href='https://darknetdiaries.com/episode/26'>https://darknetdiaries.com</a>.]]></itunes:summary>
 			<description><![CDATA[The IRS processes $3 trillion dollars a year. A lot of criminals want to get a piece of that. In 2015 the IRS had a large data breach. Hundreds of thousands of tax records were leaked. What happened and who was behind this? Listen to this episode to find out.<br><br>For show notes visit <a href='https://darknetdiaries.com/episode/26'>https://darknetdiaries.com</a>. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2879,7 +2741,6 @@
 			<title>Ep 25: Alberto</title>
 			<itunes:title>Alberto</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In Feb 2017, a medical provider in Uruguay got hacked. The attacker stole a bunch of patient records and then used that to conduct extortion on the provider. They said they'd release the records of everyone with HIV unless they get $60,000 worth of bitcoin. </itunes:subtitle>
 			<itunes:summary><![CDATA[In Feb 2017, a medical provider in Uruguay got hacked. The attacker stole a bunch of patient records and then used that to conduct extortion on the provider. They said they'd release the records of everyone with HIV unless they get $60,000 worth of bitcoin. ]]></itunes:summary>
 			<description><![CDATA[In Feb 2017, a medical provider in Uruguay got hacked. The attacker stole a bunch of patient records and then used that to conduct extortion on the provider. They said they'd release the records of everyone with HIV unless they get $60,000 worth of bitcoin.  <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2898,7 +2759,6 @@
 			<title>Ep 24: Operation Bayonet</title>
 			<itunes:title>Operation Bayonet</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Darknet markets are online black markets. They are highly illegal, and dangerous to run. Hear exactly how dangerous it was for Alphabay and Hansa dark markets.</itunes:subtitle>
 			<itunes:summary><![CDATA[Darknet markets are online black markets. They are highly illegal, and dangerous to run. Hear exactly how dangerous it was for Alphabay and Hansa dark markets.]]></itunes:summary>
 			<description><![CDATA[Darknet markets are online black markets. They are highly illegal, and dangerous to run. Hear exactly how dangerous it was for Alphabay and Hansa dark markets. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2917,7 +2777,6 @@
 			<title>Ep 23: Vladimir Levin</title>
 			<itunes:title>Vladimir Levin</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>When banks started coming online, they almost immediately started being targeted by hackers. Vladimir Levin was one of the first ever known hacker to try to rob a bank. He succeeded a little, and failed a lot. Vladimir would go down in the history books as one of the most notorious hackers of all time because of his attempted online bank robberies.</itunes:subtitle>
 			<itunes:summary><![CDATA[When banks started coming online, they almost immediately started being targeted by hackers. Vladimir Levin was one of the first ever known hacker to try to rob a bank. He succeeded a little, and failed a lot. Vladimir would go down in the history books as one of the most notorious hackers of all time because of his attempted online bank robberies.]]></itunes:summary>
 			<description><![CDATA[When banks started coming online, they almost immediately started being targeted by hackers. Vladimir Levin was one of the first ever known hacker to try to rob a bank. He succeeded a little, and failed a lot. Vladimir would go down in the history books as one of the most notorious hackers of all time because of his attempted online bank robberies. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2936,7 +2795,6 @@
 			<title>Ep 22: Mini-Stories: Vol 1</title>
 			<itunes:title>Mini-Stories: Vol 1</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Three stories in one! In this episode we hear about a penetration test from Mubix that he'll never forget, a incident response from Robert M. Lee which completely stunned him, and a social engineering mission from Snow.&lt;br&gt;&lt;br&gt;Podcast recommendation: &lt;a href='http://moonshot.audio/'&gt;Moonshot&lt;/a&gt;.</itunes:subtitle>
 			<itunes:summary><![CDATA[Three stories in one! In this episode we hear about a penetration test from Mubix that he'll never forget, a incident response from Robert M. Lee which completely stunned him, and a social engineering mission from Snow.<br><br>Podcast recommendation: <a href='http://moonshot.audio/'>Moonshot</a>.]]></itunes:summary>
 			<description><![CDATA[Three stories in one! In this episode we hear about a penetration test from Mubix that he'll never forget, a incident response from Robert M. Lee which completely stunned him, and a social engineering mission from Snow.<br><br>Podcast recommendation: <a href='http://moonshot.audio/'>Moonshot</a>. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2955,7 +2813,6 @@
 			<title>Ep 21: Black Duck Eggs</title>
 			<itunes:title>Black Duck Eggs</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Ira Winkler's specialty is assembling elite teams of special forces and intelligence officers to go after companies. Ira shares a story about a time he and his team broke into a global 5 company. A company so large that theft of intellictual property could result in billions of dollars of damage. &lt;br&gt;&lt;br&gt;Ira's consulting company: &lt;a href='http://www.securementem.com/'&gt;Secure Mentum&lt;/a&gt;.&lt;br&gt;&lt;br&gt;His books: &lt;a href='https://www.amazon.com/gp/product/0764584685/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0764584685&amp;linkCode=as2&amp;tag=tunn01-20&amp;linkId=8f8a26b3c5fe68e6c8913ceea8adb0f5'&gt;Spies Among Us&lt;/a&gt;, &lt;a href='https://www.amazon.com/gp/product/0128093161/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0128093161&amp;linkCode=as2&amp;tag=tunn01-20&amp;linkId=ac08090c6d15b5ad2c77789fbcf50d56'&gt;Advanced Persistent Security&lt;/a&gt;, &lt;a href='https://www.amazon.com/gp/product/0895263904/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0895263904&amp;linkCode=as2&amp;tag=tunn01-20&amp;linkId=63e40c57a8bf8f04f077f55d6ed21455'&gt;Through the Eyes of the Enemy&lt;/a&gt;. </itunes:subtitle>
 			<itunes:summary><![CDATA[Ira Winkler's specialty is assembling elite teams of special forces and intelligence officers to go after companies. Ira shares a story about a time he and his team broke into a global 5 company. A company so large that theft of intellictual property could result in billions of dollars of damage. <br><br>Ira's consulting company: <a href='http://www.securementem.com/'>Secure Mentum</a>.<br><br>His books: <a href='https://www.amazon.com/gp/product/0764584685/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0764584685&linkCode=as2&tag=tunn01-20&linkId=8f8a26b3c5fe68e6c8913ceea8adb0f5'>Spies Among Us</a>, <a href='https://www.amazon.com/gp/product/0128093161/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0128093161&linkCode=as2&tag=tunn01-20&linkId=ac08090c6d15b5ad2c77789fbcf50d56'>Advanced Persistent Security</a>, <a href='https://www.amazon.com/gp/product/0895263904/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0895263904&linkCode=as2&tag=tunn01-20&linkId=63e40c57a8bf8f04f077f55d6ed21455'>Through the Eyes of the Enemy</a>. ]]></itunes:summary>
 			<description><![CDATA[Ira Winkler's specialty is assembling elite teams of special forces and intelligence officers to go after companies. Ira shares a story about a time he and his team broke into a global 5 company. A company so large that theft of intellictual property could result in billions of dollars of damage. <br><br>Ira's consulting company: <a href='http://www.securementem.com/'>Secure Mentum</a>.<br><br>His books: <a href='https://www.amazon.com/gp/product/0764584685/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0764584685&linkCode=as2&tag=tunn01-20&linkId=8f8a26b3c5fe68e6c8913ceea8adb0f5'>Spies Among Us</a>, <a href='https://www.amazon.com/gp/product/0128093161/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0128093161&linkCode=as2&tag=tunn01-20&linkId=ac08090c6d15b5ad2c77789fbcf50d56'>Advanced Persistent Security</a>, <a href='https://www.amazon.com/gp/product/0895263904/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0895263904&linkCode=as2&tag=tunn01-20&linkId=63e40c57a8bf8f04f077f55d6ed21455'>Through the Eyes of the Enemy</a>.  <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2974,7 +2831,6 @@
 			<title>Ep 20: mobman</title>
 			<itunes:title>mobman</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Chances are, if you were downloading shady programs in the early 2000's, you were infected with malware he wrote called SubSeven. Hacking changed mobman's life. Hear how it happened by listening to this episode.&lt;br&gt;&lt;br&gt;Image for this episode created by &lt;a href='https://www.instagram.com/dr4w1ngluc4s/'&gt;dr4w1ngluc4s&lt;/a&gt;. Check out his Instagram to see some amazing artwork!&lt;br&gt;&lt;br&gt; Check out the podcasts &lt;a href='http://vansounds.org/'&gt;Van Sounds&lt;/a&gt; and &lt;a href='https://www.truecrimeisland.com/'&gt;True Crime Island&lt;/a&gt;</itunes:subtitle>
 			<itunes:summary><![CDATA[Chances are, if you were downloading shady programs in the early 2000's, you were infected with malware he wrote called SubSeven. Hacking changed mobman's life. Hear how it happened by listening to this episode.<br><br>Image for this episode created by <a href='https://www.instagram.com/dr4w1ngluc4s/'>dr4w1ngluc4s</a>. Check out his Instagram to see some amazing artwork!<br><br> Check out the podcasts <a href='http://vansounds.org/'>Van Sounds</a> and <a href='https://www.truecrimeisland.com/'>True Crime Island</a>]]></itunes:summary>
 			<description><![CDATA[Chances are, if you were downloading shady programs in the early 2000's, you were infected with malware he wrote called SubSeven. Hacking changed mobman's life. Hear how it happened by listening to this episode.<br><br>Image for this episode created by <a href='https://www.instagram.com/dr4w1ngluc4s/'>dr4w1ngluc4s</a>. Check out his Instagram to see some amazing artwork!<br><br> Check out the podcasts <a href='http://vansounds.org/'>Van Sounds</a> and <a href='https://www.truecrimeisland.com/'>True Crime Island</a> <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -2993,7 +2849,6 @@
 			<title>Ep 19: Operation Aurora</title>
 			<itunes:title>Operation Aurora</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In 2009, around Christmas time, something terrible was lurking in the network at Google. Google is the most popular website on the Internet. It’s so popular many people just think Google is the Internet. Google hires many of the most talented minds and has been online since the 90s. Hacking into Google is no easy task. There’s a team of security engineers who test and check all the configurations on the site before they go live. And Google has teams of security analysts and technicians watching the network 24/7 for attacks, intrusions, and suspicious activity. Security plays a very vital role at Google, and everything has to have the best protections. But this attack slipped past all that.  Hackers had found their way into the network. They compromised numerous systems, burrowed their way into Google’s servers, and were trying to get to data they shouldn’t be allowed to have. Google detected this activity. And realized pretty quickly they were dealing with an attack more sophisticated than anything they’ve ever seen.&lt;br&gt;&lt;br&gt;Podcast recommendation: &lt;a href='https://www.20k.org/'&gt;Twenty Thousand Hertz&lt;/a&gt;</itunes:subtitle>
 			<itunes:summary><![CDATA[In 2009, around Christmas time, something terrible was lurking in the network at Google. Google is the most popular website on the Internet. It’s so popular many people just think Google is the Internet. Google hires many of the most talented minds and has been online since the 90s. Hacking into Google is no easy task. There’s a team of security engineers who test and check all the configurations on the site before they go live. And Google has teams of security analysts and technicians watching the network 24/7 for attacks, intrusions, and suspicious activity. Security plays a very vital role at Google, and everything has to have the best protections. But this attack slipped past all that.  Hackers had found their way into the network. They compromised numerous systems, burrowed their way into Google’s servers, and were trying to get to data they shouldn’t be allowed to have. Google detected this activity. And realized pretty quickly they were dealing with an attack more sophisticated than anything they’ve ever seen.<br><br>Podcast recommendation: <a href='https://www.20k.org/'>Twenty Thousand Hertz</a>]]></itunes:summary>
 			<description><![CDATA[In 2009, around Christmas time, something terrible was lurking in the network at Google. Google is the most popular website on the Internet. It’s so popular many people just think Google is the Internet. Google hires many of the most talented minds and has been online since the 90s. Hacking into Google is no easy task. There’s a team of security engineers who test and check all the configurations on the site before they go live. And Google has teams of security analysts and technicians watching the network 24/7 for attacks, intrusions, and suspicious activity. Security plays a very vital role at Google, and everything has to have the best protections. But this attack slipped past all that.  Hackers had found their way into the network. They compromised numerous systems, burrowed their way into Google’s servers, and were trying to get to data they shouldn’t be allowed to have. Google detected this activity. And realized pretty quickly they were dealing with an attack more sophisticated than anything they’ve ever seen.<br><br>Podcast recommendation: <a href='https://www.20k.org/'>Twenty Thousand Hertz</a> <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -3012,7 +2867,6 @@
 			<title>Ep 18: Jackpot</title>
 			<itunes:title>Jackpot</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>A man addicted to gambling finds a bug in a video poker machine that lets him win excessive amounts of money.</itunes:subtitle>
 			<itunes:summary><![CDATA[A man addicted to gambling finds a bug in a video poker machine that lets him win excessive amounts of money.]]></itunes:summary>
 			<description><![CDATA[A man addicted to gambling finds a bug in a video poker machine that lets him win excessive amounts of money. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -3031,7 +2885,6 @@
 			<title>Ep 17: Finn</title>
 			<itunes:title>Finn</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>A 14-year-old kid who finds himself bored in class decides to hack someone's Twitter account and ends up with more than he bargained for.</itunes:subtitle>
 			<itunes:summary><![CDATA[A 14-year-old kid who finds himself bored in class decides to hack someone's Twitter account and ends up with more than he bargained for.]]></itunes:summary>
 			<description><![CDATA[A 14-year-old kid who finds himself bored in class decides to hack someone's Twitter account and ends up with more than he bargained for. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -3050,7 +2903,6 @@
 			<title>Ep 16: Eijah</title>
 			<itunes:title>Eijah</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In 2007, a hacker named Eijah got fed up with the way DRM prevented him from being able to play the content he paid for. He decided to fight back against the AACS and find a way to circumvent the DRM. By the time Eijah was done, his life wasn't the same.</itunes:subtitle>
 			<itunes:summary><![CDATA[In 2007, a hacker named Eijah got fed up with the way DRM prevented him from being able to play the content he paid for. He decided to fight back against the AACS and find a way to circumvent the DRM. By the time Eijah was done, his life wasn't the same.]]></itunes:summary>
 			<description><![CDATA[In 2007, a hacker named Eijah got fed up with the way DRM prevented him from being able to play the content he paid for. He decided to fight back against the AACS and find a way to circumvent the DRM. By the time Eijah was done, his life wasn't the same. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -3069,7 +2921,6 @@
 			<title>Ep 15: Ill Tills</title>
 			<itunes:title>Ill Tills</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>A major retailer was hacked. Their point of sales machines were riddled with malware. Listen to hear how digital forensics and incident responders handled the situation. What malware was found? Where was it found? How was it stopped? And most importantly, how much data was leaked?</itunes:subtitle>
 			<itunes:summary><![CDATA[A major retailer was hacked. Their point of sales machines were riddled with malware. Listen to hear how digital forensics and incident responders handled the situation. What malware was found? Where was it found? How was it stopped? And most importantly, how much data was leaked?]]></itunes:summary>
 			<description><![CDATA[A major retailer was hacked. Their point of sales machines were riddled with malware. Listen to hear how digital forensics and incident responders handled the situation. What malware was found? Where was it found? How was it stopped? And most importantly, how much data was leaked? <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -3088,7 +2939,6 @@
 			<title>Ep 14: #OpJustina</title>
 			<itunes:title>#OpJustina</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In 2013 a hospital was accused of conducting a medical kidnapping against a young girl name Justina. This enraged many people across the country, including members of anonymous. A DDOS attack was waged against the hospital.</itunes:subtitle>
 			<itunes:summary><![CDATA[In 2013 a hospital was accused of conducting a medical kidnapping against a young girl name Justina. This enraged many people across the country, including members of anonymous. A DDOS attack was waged against the hospital.]]></itunes:summary>
 			<description><![CDATA[In 2013 a hospital was accused of conducting a medical kidnapping against a young girl name Justina. This enraged many people across the country, including members of anonymous. A DDOS attack was waged against the hospital. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -3107,7 +2957,6 @@
 			<title>Ep 13: Carna Botnet</title>
 			<itunes:title>Carna Botnet</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In 2012 the Carna Bot was built and unleashed on the world. But it didn't have any intentions on doing anything malicious. It was built just to help us all understand the Internet better. This botnet used the oldest security vulnerability in the book. And the data that came out of it was amazing.</itunes:subtitle>
 			<itunes:summary><![CDATA[In 2012 the Carna Bot was built and unleashed on the world. But it didn't have any intentions on doing anything malicious. It was built just to help us all understand the Internet better. This botnet used the oldest security vulnerability in the book. And the data that came out of it was amazing.]]></itunes:summary>
 			<description><![CDATA[In 2012 the Carna Bot was built and unleashed on the world. But it didn't have any intentions on doing anything malicious. It was built just to help us all understand the Internet better. This botnet used the oldest security vulnerability in the book. And the data that came out of it was amazing. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -3126,7 +2975,6 @@
 			<title>Ep 12: Crypto Wars</title>
 			<itunes:title>Crypto Wars</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In the 1990's the Internet started to take shape. But the US goverment had strict laws regulating what type of cryptography is allowed to be used online. A few brave people stood up to the government in the name of civil rights and won the right to use strong encryption. Listen to their battle and what they had to do through to accomplish this.</itunes:subtitle>
 			<itunes:summary><![CDATA[In the 1990's the Internet started to take shape. But the US goverment had strict laws regulating what type of cryptography is allowed to be used online. A few brave people stood up to the government in the name of civil rights and won the right to use strong encryption. Listen to their battle and what they had to do through to accomplish this.]]></itunes:summary>
 			<description><![CDATA[In the 1990's the Internet started to take shape. But the US goverment had strict laws regulating what type of cryptography is allowed to be used online. A few brave people stood up to the government in the name of civil rights and won the right to use strong encryption. Listen to their battle and what they had to do through to accomplish this. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -3145,7 +2993,6 @@
 			<title>Ep 11: Strictly Confidential</title>
 			<itunes:title>Strictly Confidential</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>What happens when an innovative tech company, that's trying to develop the next big thing, detects a hacker in their network? We hear the story from a digital forensics investigator which has a surprising result.</itunes:subtitle>
 			<itunes:summary><![CDATA[What happens when an innovative tech company, that's trying to develop the next big thing, detects a hacker in their network? We hear the story from a digital forensics investigator which has a surprising result.]]></itunes:summary>
 			<description><![CDATA[What happens when an innovative tech company, that's trying to develop the next big thing, detects a hacker in their network? We hear the story from a digital forensics investigator which has a surprising result. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -3164,7 +3011,6 @@
 			<title>Ep 10: Misadventures of a Nation State Actor</title>
 			<itunes:title>Misadventures of a Nation State Actor</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>In today's world of intelligence gathering, governments hack other governments. This episode takes you on a ride with a nation state actor to see exactly how it's done.</itunes:subtitle>
 			<itunes:summary><![CDATA[In today's world of intelligence gathering, governments hack other governments. This episode takes you on a ride with a nation state actor to see exactly how it's done.]]></itunes:summary>
 			<description><![CDATA[In today's world of intelligence gathering, governments hack other governments. This episode takes you on a ride with a nation state actor to see exactly how it's done. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -3183,7 +3029,6 @@
 			<title>Ep 9: The Rise and Fall of Mt. Gox</title>
 			<itunes:title>The Rise and Fall of Mt. Gox</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Mt. Gox was the largest bitcoin exchange in the world. It suddenly went offline. What happened?</itunes:subtitle>
 			<itunes:summary><![CDATA[Mt. Gox was the largest bitcoin exchange in the world. It suddenly went offline. What happened?]]></itunes:summary>
 			<description><![CDATA[Mt. Gox was the largest bitcoin exchange in the world. It suddenly went offline. What happened? <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -3202,7 +3047,6 @@
 			<title>Ep 8: Manfred (Part 2)</title>
 			<itunes:title>Manfred (Part 2)</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Manfred found a way to turn his passion for video games and reverse engineering into a full time business. He exploited video games and sold virtual goods and currency for real money. This was his full time job. Listen to this episode to hear exactly how he did this. </itunes:subtitle>
 			<itunes:summary><![CDATA[Manfred found a way to turn his passion for video games and reverse engineering into a full time business. He exploited video games and sold virtual goods and currency for real money. This was his full time job. Listen to this episode to hear exactly how he did this. ]]></itunes:summary>
 			<description><![CDATA[Manfred found a way to turn his passion for video games and reverse engineering into a full time business. He exploited video games and sold virtual goods and currency for real money. This was his full time job. Listen to this episode to hear exactly how he did this.  <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -3221,7 +3065,6 @@
 			<title>Ep 7: Manfred (Part 1)</title>
 			<itunes:title>Manfred (Part 1)</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Manfred has had the most epic story of all online video game stories. For the last 20 years, he's been hacking online games.</itunes:subtitle>
 			<itunes:summary><![CDATA[Manfred has had the most epic story of all online video game stories. For the last 20 years, he's been hacking online games.]]></itunes:summary>
 			<description><![CDATA[Manfred has had the most epic story of all online video game stories. For the last 20 years, he's been hacking online games. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -3240,7 +3083,6 @@
 			<title>Ep 6: The Beirut Bank Job</title>
 			<itunes:title>The Beirut Bank Job</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Jayson E. Street tells us a story about the time he broke into a bank in Beirut Lebanon.</itunes:subtitle>
 			<itunes:summary><![CDATA[Jayson E. Street tells us a story about the time he broke into a bank in Beirut Lebanon.]]></itunes:summary>
 			<description><![CDATA[Jayson E. Street tells us a story about the time he broke into a bank in Beirut Lebanon. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -3259,7 +3101,6 @@
 			<title>Ep 5: #ASUSGATE</title>
 			<itunes:title>#ASUSGATE</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Security researcher Kyle Lovett bought a new Asus router in 2013. He found it was riddled with security vulnerabilties. He set out on a mission to resolve these vulnerabilities not only for his own router, but for thousands of others who were also vulnerable. </itunes:subtitle>
 			<itunes:summary><![CDATA[Security researcher Kyle Lovett bought a new Asus router in 2013. He found it was riddled with security vulnerabilties. He set out on a mission to resolve these vulnerabilities not only for his own router, but for thousands of others who were also vulnerable. ]]></itunes:summary>
 			<description><![CDATA[Security researcher Kyle Lovett bought a new Asus router in 2013. He found it was riddled with security vulnerabilties. He set out on a mission to resolve these vulnerabilities not only for his own router, but for thousands of others who were also vulnerable.  <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -3278,7 +3119,6 @@
 			<title>Ep 4: Panic! at the TalkTalk Board Room</title>
 			<itunes:title>Panic! at the TalkTalk Board Room</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Mobile provider TalkTalk suffered a major breach in 2015. The CEO tried her best to keep angry customers calm and carry on. The UK government and Metropolitan Police investigate the breach. We get a rare glimpse of how the CEO handles the crisis.</itunes:subtitle>
 			<itunes:summary><![CDATA[Mobile provider TalkTalk suffered a major breach in 2015. The CEO tried her best to keep angry customers calm and carry on. The UK government and Metropolitan Police investigate the breach. We get a rare glimpse of how the CEO handles the crisis.]]></itunes:summary>
 			<description><![CDATA[Mobile provider TalkTalk suffered a major breach in 2015. The CEO tried her best to keep angry customers calm and carry on. The UK government and Metropolitan Police investigate the breach. We get a rare glimpse of how the CEO handles the crisis. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -3297,7 +3137,6 @@
 			<title>Ep 3: DigiNotar, You are the Weakest Link, Good Bye!</title>
 			<itunes:title>DigiNotar, You are the Weakest Link, Good Bye!</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>The 2011 DigiNotar breach changed the way browsers do security. In this episode, we learn what role a CA plays, how browsers work with CAs, and what happens when a CA is breached.</itunes:subtitle>
 			<itunes:summary><![CDATA[The 2011 DigiNotar breach changed the way browsers do security. In this episode, we learn what role a CA plays, how browsers work with CAs, and what happens when a CA is breached.]]></itunes:summary>
 			<description><![CDATA[The 2011 DigiNotar breach changed the way browsers do security. In this episode, we learn what role a CA plays, how browsers work with CAs, and what happens when a CA is breached. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -3316,7 +3155,6 @@
 			<title>Ep 2: The Peculiar Case of the VTech Hacker</title>
 			<itunes:title>The Peculiar Case of the VTech Hacker</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>VTech makes toy tablets, laptops, and watches for kids. In 2015, they were breached. The hacker downloaded gigs of children's data. Discover what the hacker did once he took the data.</itunes:subtitle>
 			<itunes:summary><![CDATA[VTech makes toy tablets, laptops, and watches for kids. In 2015, they were breached. The hacker downloaded gigs of children's data. Discover what the hacker did once he took the data.]]></itunes:summary>
 			<description><![CDATA[VTech makes toy tablets, laptops, and watches for kids. In 2015, they were breached. The hacker downloaded gigs of children's data. Discover what the hacker did once he took the data. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
@@ -3335,7 +3173,6 @@
 			<title>Ep 1: The Phreaky World of PBX Hacking</title>
 			<itunes:title>The Phreaky World of PBX Hacking</itunes:title>
 			<itunes:author>Jack Rhysider</itunes:author>
-    		<itunes:subtitle>Farhan Arshad and Noor Aziz Uddin were captured 2 years after being placed on the FBI's Cyber's Most Wanted list for PBX hacking. In this episode, we explain PBX hacking and how hackers are racking up billions of dollars in phone bills. We also learn how the two men were captured.</itunes:subtitle>
 			<itunes:summary><![CDATA[Farhan Arshad and Noor Aziz Uddin were captured 2 years after being placed on the FBI's Cyber's Most Wanted list for PBX hacking. In this episode, we explain PBX hacking and how hackers are racking up billions of dollars in phone bills. We also learn how the two men were captured.]]></itunes:summary>
 			<description><![CDATA[Farhan Arshad and Noor Aziz Uddin were captured 2 years after being placed on the FBI's Cyber's Most Wanted list for PBX hacking. In this episode, we explain PBX hacking and how hackers are racking up billions of dollars in phone bills. We also learn how the two men were captured. <br><br><a rel="payment" href="https://darknetdiaries.com">Visit DarknetDiaries.com to see more show notes.</a>]]></description>
 
